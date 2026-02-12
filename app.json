@@ -3,14 +3,23 @@
    "name": "Acumens Co-Manufacturing",
   "publisher": "SBC Dynamics ERP", 
   "version": "27.1026.1.1",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
-  "dependencies": [],
+  "brief": "Acumens Co-Manufacturing enables you to ensure that items received, stored, or produced meet defined quality standards before being released for use or sale within Microsoft Dynamics 365 Business Central. This feature supports the planning, production, quality inspection, storage, and tracking of products from acquisition through to the point of sale.",
+  "description": "Acumens Co-Manufacturing enables you to ensure that items received, stored, or produced meet defined quality standards before being released for use or sale within Microsoft Dynamics 365 Business Central. This feature supports the planning, production, quality inspection, storage, and tracking of products from acquisition through to the point of sale.",
+  "privacyStatement": "https://www.sbcdynamicserp.com/privacy-policy/",
+  "EULA": "https://www.sbcdynamicserp.com/end-user-license-agreement/",
+  "help": "https://www.sbcdynamicserp.com/help/",
+  "url": "https://www.sbcdynamicserp.com/microsoft-dynamics-nav-bc-addons-and-extensions/",
+  "logo": "./src/media/sbc.png",
+  "contextSensitiveHelpUrl": "https://www.sbcdynamicserp.com/support/?emailapp=yes",
+  "applicationInsightsConnectionString": "InstrumentationKey=ba4686d0-d97a-4532-b53c-7ece85786a03;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=5a99d773-71c1-4ae0-86de-4989e2a06e51",
+  "dependencies": [
+     {
+      "id": "d50afbbf-aff3-4dac-bce7-8686b375b994",
+      "name": "DocXtender",
+      "publisher":  "Insight Works",
+      "version":  "2.4.9435.1"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "27.0.0.0",
@@ -22,11 +31,12 @@
   ],
   "resourceExposurePolicy": {
     "allowDebugging": true,
-    "allowDownloadingSource": true,
+    "allowDownloadingSource": false,
     "includeSourceInSymbolFile": true
   },
   "runtime": "16.0",
   "features": [
-    "NoImplicitWith"
+    "NoImplicitWith",
+    "TranslationFile"
   ]
 }

@@ -2,16 +2,42 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Microsoft cloud sandbox",
+            "name": "SandboxQA",
             "request": "launch",
             "type": "al",
-            "environmentType": "Sandbox",
-            "environmentName": "Sandboxbc25",
+            "environmentType":"Sandbox", 
+            "environmentName": "SandboxQA",          
+            "server": "https://businesscentral.dynamics.com/83f5a700-a594-48f4-a2e2-871155290ad5/SandboxQA", 
+            "authentication": "AAD" ,
+            "tenant": "83f5a700-a594-48f4-a2e2-871155290ad5",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "ForceSync"
+            "usePublicURLFromServer": true,
+            "schemaUpdateMode":"ForceSync",
+            "preLaunchTask": "Regenerate App Permissions"
+        },
+         {
+            "name": "SandboxBC25",
+            "request": "launch",
+            "type": "al",
+            "environmentType":"Sandbox", 
+            "environmentName": "SandboxBC25",          
+            "server": "https://businesscentral.dynamics.com/83f5a700-a594-48f4-a2e2-871155290ad5/SandboxBC25", 
+            "authentication": "AAD" ,
+            "tenant": "83f5a700-a594-48f4-a2e2-871155290ad5",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "usePublicURLFromServer": true,
+            "schemaUpdateMode":"ForceSync",
+            "preLaunchTask": "Regenerate App Permissions"
         }
     ]
 }
