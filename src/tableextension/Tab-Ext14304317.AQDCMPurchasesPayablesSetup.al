@@ -1,4 +1,4 @@
-tableextension 14304317 "AQD Purchases&PayablesSetup" extends "Purchases & Payables Setup"
+tableextension 14304317 "AQD CMPurchases&PayablesSetup" extends "Purchases & Payables Setup"
 {
     fields
     {

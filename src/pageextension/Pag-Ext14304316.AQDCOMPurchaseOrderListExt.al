@@ -1,4 +1,4 @@
-pageextension 14304316 "AQD COPurchaseOrderListExt" extends "Purchase Order List"
+pageextension 14304316 "AQD COMPurchaseOrderListExt" extends "Purchase Order List"
 {
     actions
     {

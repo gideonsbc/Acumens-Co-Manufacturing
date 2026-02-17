@@ -1,4 +1,4 @@
-// Pageextension 14304330 "AQD COPurchases&PayablesSetup" extends "Purchases & Payables Setup"
+// Pageextension 14304330 "AQD COMPurchases&PayablesSetup" extends "Purchases & Payables Setup"
 // {
 //     layout
 //     {
