@@ -63,23 +63,27 @@ page 14304316 "AQD Archive Co-Man Card"
     {
         area(Processing)
         {
-            action(OpenArchive)
+            group(Home)
             {
-                ApplicationArea = All;
-                Caption = 'Open and Archive';
-                Image = Archive;
-                ToolTip = 'Executes the Open and Archive action.';
+                Caption = 'Home';
+                action(OpenArchive)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Open and Archive';
+                    Image = Archive;
+                    ToolTip = 'Executes the Open and Archive action.';
 
-                trigger OnAction()
-                var
-                    ProdOrder: Record "Production Order";
-                    ConOpen: Label 'Are you sure you want to Open and achive the Co-Man?';
-                begin
-                    if Confirm(ConOpen, false) then begin
-                        Rec."Archive Order" := true;
-                        Rec.Modify();
+                    trigger OnAction()
+                    var
+                        ProdOrder: Record "Production Order";
+                        ConOpen: Label 'Are you sure you want to Open and achive the Co-Man?';
+                    begin
+                        if Confirm(ConOpen, false) then begin
+                            Rec."Archive Order" := true;
+                            Rec.Modify();
+                        end;
                     end;
-                end;
+                }
             }
             group(Outbound)
             {
@@ -154,32 +158,32 @@ page 14304316 "AQD Archive Co-Man Card"
         {
             group(Category_Process)
             {
-                Caption = 'Process', Comment = 'Generated from the PromotedActionCategories property index 1.';
+                Caption = 'Home', Comment = 'Generated from the PromotedActionCategories property index 1.';
 
                 actionref("OpenArchive_Promoted"; "OpenArchive")
                 {
                 }
-                group(Category_Category4)
+            }
+            group(Category_Category4)
+            {
+                Caption = 'Outbound', Comment = 'Generated from the PromotedActionCategories property index 2.';
+
+                actionref("OutTransfer Order_Promoted"; "OutTransfer Order")
                 {
-                    Caption = 'Outbound';
+                }
+                actionref("Whse. Receipt Lines_Promoted"; "Whse. Receipt Lines")
+                {
+                }
+                actionref("Put-away_Promoted"; "Put-away")
+                {
+                }
+            }
+            group(Category_Category5)
+            {
+                Caption = 'Posted', Comment = 'Generated from the PromotedActionCategories property index 13.';
 
-                    actionref("OutTransfer Order_Promoted"; "OutTransfer Order")
-                    {
-                    }
-                    actionref("Whse. Receipt Lines_Promoted"; "Whse. Receipt Lines")
-                    {
-                    }
-                    actionref("Put-away_Promoted"; "Put-away")
-                    {
-                    }
-                    group(Category_Category5)
-                    {
-                        Caption = 'Posted';
-
-                        actionref("Posted Transfer Receipts_Promoted"; "Posted Transfer Receipts")
-                        {
-                        }
-                    }
+                actionref("Posted Transfer Receipts_Promoted"; "Posted Transfer Receipts")
+                {
                 }
             }
         }

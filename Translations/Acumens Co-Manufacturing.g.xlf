@@ -208,6 +208,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control IWX Attached Documents2 - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 477925417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Home - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2937109315 - Action 3550935962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Executes the Open and Archive action.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -273,20 +278,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Whse. Receipt Lines - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2937109315 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Process</source>
-          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Category_Process - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 2937109315 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Outbound</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Category_Category4 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2937109315 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 13.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Category_Process - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1386076785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Archive Co-Man List</source>
@@ -398,20 +403,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Whse. Receipt Lines - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1386076785 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Process</source>
-          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Category_Process - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 1386076785 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Outbound</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Category_Category4 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1386076785 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 3.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Category_Process - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1117845285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Co-Man Card</source>
@@ -588,20 +593,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Whse. Receipt Lines - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1117845285 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Process</source>
-          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Category_Process - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 1117845285 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Outbound</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Category_Category4 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1117845285 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 3.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Category_Process - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2233657647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Co-Man List</source>
@@ -738,20 +743,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Whse. Receipt Lines - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2233657647 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Process</source>
-          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Category_Process - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 2233657647 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Outbound</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Category_Category4 - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2233657647 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted</source>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 3.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Category_Process - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1285447729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Co-Man Lot Restrictions</source>
@@ -878,6 +883,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Source No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 477925417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Home - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2316154885 - Action 3342642175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Executes the Create Outbound Transfer Order action.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -887,6 +897,26 @@
           <source>Create Outbound Transfer Order</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Create Outbound Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 387971303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Purchase Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Purchase Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2276014012 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Subcontracting Worksheet action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Subcontracting Worksheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2276014012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subcontracting Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Subcontracting Worksheet - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2316154885 - Action 3221732535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Inbound</source>
@@ -902,6 +932,26 @@
           <source>In-Transfer Order</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action InTransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 997963520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items that are outbound on warehouse pick documents for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Pick Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 997963520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2551057102 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View outbound items that have been shipped with warehouse activities for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Whse. Shi&amp;pments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2551057102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Shi&amp;pments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Whse. Shi&amp;pments - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2316154885 - Action 1179182787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>In_Posted</source>
@@ -928,26 +978,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Registered Registered Pick Lines - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 997963520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View items that are outbound on warehouse pick documents for the transfer order.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Pick Lines - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 997963520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Warehouse Pick Lines</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Pick Lines - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 2551057102 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>View outbound items that have been shipped with warehouse activities for the transfer order.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Whse. Shi&amp;pments - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 2551057102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Whse. Shi&amp;pments</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Whse. Shi&amp;pments - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 2316154885 - Action 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Posted</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -962,26 +992,6 @@
           <source>Posted Purchase Invoices</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Posted Purchase Invoices - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 387971303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Executes the Purchase Order action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Purchase Order - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Purchase Order</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Purchase Order - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 2276014012 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Executes the Subcontracting Worksheet action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Subcontracting Worksheet - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2316154885 - Action 2276014012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Subcontracting Worksheet</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Subcontracting Worksheet - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 786325213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>New Co-Man</source>
@@ -1368,6 +1378,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Source No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 477925417 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Home - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2470941168 - Action 3342642175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Executes the Create Outbound Transfer Order action.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1377,6 +1392,26 @@
           <source>Create Outbound Transfer Order</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Create Outbound Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 387971303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Purchase Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Purchase Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 2276014012 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Subcontracting Worksheet action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Subcontracting Worksheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 2276014012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subcontracting Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Subcontracting Worksheet - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2470941168 - Action 3221732535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Inbound</source>
@@ -1452,26 +1487,6 @@
           <source>Posted Purchase Invoices</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Posted Purchase Invoices - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2470941168 - Action 387971303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Executes the Purchase Order action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Purchase Order - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2470941168 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Purchase Order</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Purchase Order - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2470941168 - Action 2276014012 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Executes the Subcontracting Worksheet action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Subcontracting Worksheet - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2470941168 - Action 2276014012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Subcontracting Worksheet</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Subcontracting Worksheet - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2200282144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Transfer To</source>

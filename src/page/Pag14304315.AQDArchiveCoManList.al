@@ -146,27 +146,27 @@ page 14304315 "AQD Archive Co-Man List"
                 actionref("OpenArchive_Promoted"; "OpenArchive")
                 {
                 }
-                group(Category_Category4)
+            }
+            group(Category_Category4)
+            {
+                Caption = 'Outbound', Comment = 'Generated from the PromotedActionCategories property index 2.';
+
+                actionref("OutTransfer Order_Promoted"; "OutTransfer Order")
                 {
-                    Caption = 'Outbound';
+                }
+                actionref("Whse. Receipt Lines_Promoted"; "Whse. Receipt Lines")
+                {
+                }
+                actionref("Put-away_Promoted"; "Put-away")
+                {
+                }
+            }
+            group(Category_Category5)
+            {
+                Caption = 'Posted', Comment = 'Generated from the PromotedActionCategories property index 3.';
 
-                    actionref("OutTransfer Order_Promoted"; "OutTransfer Order")
-                    {
-                    }
-                    actionref("Whse. Receipt Lines_Promoted"; "Whse. Receipt Lines")
-                    {
-                    }
-                    actionref("Put-away_Promoted"; "Put-away")
-                    {
-                    }
-                    group(Category_Category5)
-                    {
-                        Caption = 'Posted';
-
-                        actionref("Posted Transfer Receipts_Promoted"; "Posted Transfer Receipts")
-                        {
-                        }
-                    }
+                actionref("Posted Transfer Receipts_Promoted"; "Posted Transfer Receipts")
+                {
                 }
             }
         }
