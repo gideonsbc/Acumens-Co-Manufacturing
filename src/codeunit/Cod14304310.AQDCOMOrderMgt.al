@@ -136,8 +136,8 @@ codeunit 14304310 "AQD COM Order Mgt"
                         if ConItemLedgerEntry.FindSet() then
                             repeat
                                 if LotRestriction.Get(ProdOrder."AQD Co-Man No.", ConItemLedgerEntry."Item No.", ConItemLedgerEntry."Variant Code", ConItemLedgerEntry."Lot No.") then begin
-                                    TranLine."Restriction Code" := LotRestriction."Restriction Code";
-                                    TranLine."Restriction Status" := LotRestriction."Restriction Status";
+                                    TranLine."AQD Restriction Code" := LotRestriction."Restriction Code";
+                                    TranLine."AQD Restriction Status" := LotRestriction."Restriction Status";
                                     TranLine.Modify();
                                 end;
                             until ConItemLedgerEntry.Next() = 0;

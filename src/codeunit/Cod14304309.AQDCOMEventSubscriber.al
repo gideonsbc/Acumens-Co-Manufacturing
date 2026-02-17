@@ -6,15 +6,15 @@ codeunit 14304309 "AQD COM Event Subscriber"
         LotRestriction: Record "AQD Co-Man Lot Restriction";
         CoManHeader: Record "AQD Co-Man Header";
         ProdOrder: Record "Production Order";
-        QAManagement: Codeunit "QA Management";
+        QAManagement: Codeunit "AQD QA Management";
         Location: Record Location;
-        ItemRest: Record "Item Restrictions";
-        QASingleInstance: Codeunit "QA Single Instance";
+        ItemRest: Record "AQD Item Restrictions";
+        QASingleInstance: Codeunit "AQD QA Single Instance";
     begin
         if (WhseJnlLine."Source Type" = Database::"Transfer Line") and (WhseJnlLine."Source Subtype" = 0) then begin
             ProdOrder.SetRange("AQD In-Transfer Order No.", WhseJnlLine."Source No.");
             if Location.Get(WhseJnlLine."Location Code") then
-                if Location."QA. Zone" = WhseJnlLine."From Zone Code" then
+                if Location."AQD QA. Zone" = WhseJnlLine."From Zone Code" then
                     if ProdOrder.FindFirst() then begin
                         if Location.Get(ProdOrder."Location Code") then if Location."AQD Co-Man Location" then QASingleInstance.SetQARestriction(true);
                         ItemRest.SetRange("Location Code", WhseJnlLine."Location Code");
@@ -48,11 +48,11 @@ codeunit 14304309 "AQD COM Event Subscriber"
     var
         ProdOrder: Record "Production Order";
         Location: Record Location;
-        QASingleInstance: Codeunit "QA Single Instance";
+        QASingleInstance: Codeunit "AQD QA Single Instance";
     begin
         if (WarehouseJournalLine."Source Type" = Database::"Transfer Line") and (WarehouseJournalLine."Source Subtype" = 0) then begin
             ProdOrder.SetRange("AQD In-Transfer Order No.", WarehouseJournalLine."Source No.");
-            if Location.Get(WarehouseJournalLine."Location Code") then if Location."QA. Zone" = WarehouseJournalLine."From Zone Code" then if ProdOrder.FindFirst() then if Location.Get(ProdOrder."Location Code") then if Location."Co-Man Location" then QASingleInstance.SetQARestriction(false);
+            if Location.Get(WarehouseJournalLine."Location Code") then if Location."AQD QA. Zone" = WarehouseJournalLine."From Zone Code" then if ProdOrder.FindFirst() then if Location.Get(ProdOrder."Location Code") then if Location."AQD Co-Man Location" then QASingleInstance.SetQARestriction(false);
         end;
     end;
 
@@ -87,25 +87,25 @@ codeunit 14304309 "AQD COM Event Subscriber"
         SingleInstance.ResetLotInfo();
     end;
 
-    [EventSubscriber(ObjectType::Codeunit, Codeunit::"IWX DocXtender", 'OnGetCustomRecRefFromDocAttachment', '', false, false)]
-    local procedure OnGetCustomRecRefFromDocAttachmentDocXtender(precDocumentAttachment: Record "Document Attachment"; var prrRecordRef: RecordRef; var lbRecordRefHandled: Boolean);
-    var
-        CoManHeader: Record "AQD Co-Man Header";
-    begin
-        // Set the table for the custom record, when attached documents using drag-and-drop with DocXtender
-        if not lbRecordRefHandled then begin
-            case precDocumentAttachment."Table ID" of
-                Database::"AQD Co-Man Header":
-                    begin
-                        prrRecordRef.Open(Database::"AQD Co-Man Header");
-                        if CoManHeader.Get(precDocumentAttachment."No.") then begin
-                            prrRecordRef.GetTable(CoManHeader);
-                            lbRecordRefHandled := true;
-                        end;
-                    end;
-            end;
-        end;
-    end;
+    // [EventSubscriber(ObjectType::Codeunit, Codeunit::"IWX DocXtender", 'OnGetCustomRecRefFromDocAttachment', '', false, false)]
+    // local procedure OnGetCustomRecRefFromDocAttachmentDocXtender(precDocumentAttachment: Record "Document Attachment"; var prrRecordRef: RecordRef; var lbRecordRefHandled: Boolean);
+    // var
+    //     CoManHeader: Record "AQD Co-Man Header";
+    // begin
+    //     // Set the table for the custom record, when attached documents using drag-and-drop with DocXtender
+    //     if not lbRecordRefHandled then begin
+    //         case precDocumentAttachment."Table ID" of
+    //             Database::"AQD Co-Man Header":
+    //                 begin
+    //                     prrRecordRef.Open(Database::"AQD Co-Man Header");
+    //                     if CoManHeader.Get(precDocumentAttachment."No.") then begin
+    //                         prrRecordRef.GetTable(CoManHeader);
+    //                         lbRecordRefHandled := true;
+    //                     end;
+    //                 end;
+    //         end;
+    //     end;
+    // end;
 
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Document Attachment Mgmt", 'OnAfterTableHasNumberFieldPrimaryKey', '', false, false)]
     local procedure OnAfterTableHasNumberFieldPrimaryKey(TableNo: Integer; var FieldNo: Integer; var Result: Boolean)
@@ -194,5 +194,72 @@ codeunit 14304309 "AQD COM Event Subscriber"
         Item: Record Item;
     begin
         if Item.Get(RequisitionLine."No.") then RequisitionLine.Description := Item.Description;
+    end;
+
+    [EventSubscriber(ObjectType::Page, Page::"AQD Acumens Inventory QC Setup", OnAfterInitDefaultSetup, '', false, false)]
+    local procedure OnAfterInitDefaultSetup()
+    var
+        NoSeries: Record "No. Series";
+        NoSeriesLine: Record "No. Series Line";
+        ReqWkshJnlTemplate: Record "Req. Wksh. Template";
+        RequisitionWkshJnlBatch: Record "Requisition Wksh. Name";
+        ManufacturingSetup: Record "Manufacturing Setup";
+    begin
+        NoSeries.Reset();
+        if not NoSeries.Get('COM') then begin
+            NoSeries.Init();
+            NoSeries.Code := 'COM';
+            NoSeries.Description := 'Co-Manufacturing Nos';
+            NoSeries."Default Nos." := true;
+            NoSeries."Manual Nos." := true;
+            NoSeries.Insert();
+
+            NoSeriesLine.Reset();
+            NoSeriesLine.Init();
+            NoSeriesLine."Series Code" := 'COM';
+            NoSeriesLine."Line No." := 10000;
+            NoSeriesLine."Starting No." := 'COM00001';
+            if NoSeriesLine.Insert() then;
+        end;
+
+        if not ReqWkshJnlTemplate.Get('SUBCONTEM') then begin
+            ReqWkshJnlTemplate.Init();
+            ReqWkshJnlTemplate.Name := 'SUBCONTEM';
+            ReqWkshJnlTemplate.Description := 'Subcon Template Journal';
+            ReqWkshJnlTemplate."Page ID" := 291;
+            ReqWkshJnlTemplate.Insert();
+        end;
+        if not RequisitionWkshJnlBatch.Get('SUBCONTEM', 'SUBCOBATCH') then begin
+            RequisitionWkshJnlBatch.Init();
+            RequisitionWkshJnlBatch."Worksheet Template Name" := 'SUBCONTEM';
+            RequisitionWkshJnlBatch.Name := 'SUBCOBATCH';
+            RequisitionWkshJnlBatch."Template Type" := RequisitionWkshJnlBatch."Template Type"::"Req.";
+            RequisitionWkshJnlBatch.Description := 'Subcon Template Batch';
+            RequisitionWkshJnlBatch.Insert();
+        end;
+
+        if not ManufacturingSetup.Get() then
+            exit;
+        if ManufacturingSetup."AQD Co-Man No. Series" = '' then
+            ManufacturingSetup."AQD Co-Man No. Series" := 'COM';
+        if ManufacturingSetup."AQD Subcon Template Name" = '' then
+            ManufacturingSetup."AQD Subcon Template Name" := 'SUBCONTEM';
+        if ManufacturingSetup."AQD Subc. Batch Name" = '' then
+            ManufacturingSetup."AQD Subc. Batch Name" := 'SUBCONTEM';
+        ManufacturingSetup.Modify(true);
+    end;
+
+    [EventSubscriber(ObjectType::Page, Page::"AQD Acumens Inventory QC Setup", OnAfterDeleteAllSetups, '', false, false)]
+    local procedure OnAfterDeleteAllSetups()
+    var
+        ManufacturingSetup: Record "Manufacturing Setup";
+    begin
+        if not ManufacturingSetup.Get() then
+            exit;
+        // Clear Manufacturing Setup
+        Clear(ManufacturingSetup."AQD Co-Man No. Series");
+        Clear(ManufacturingSetup."AQD Subcon Template Name");
+        Clear(ManufacturingSetup."AQD Subc. Batch Name");
+        ManufacturingSetup.Modify(true);
     end;
 }

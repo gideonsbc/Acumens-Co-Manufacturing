@@ -1,0 +1,2079 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Acumens Co-Manufacturing">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1820333596 - Field 3236020568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Header - Field Archive Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1820333596 - Field 297077237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Header - Field Co-Man Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1820333596 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1820333596 - Field 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Header - Field Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1820333596 - Field 65994182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From/To Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Header - Field From/To Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1820333596 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1820333596 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Header - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3837191184 - Field 560429464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Lot Restriction - Field Co-Man No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3837191184 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Lot Restriction - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3837191184 - Field 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Lot Restriction - Field Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3837191184 - Field 2006041171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restriction Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Lot Restriction - Field Restriction Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3837191184 - Field 2941802292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restriction Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Lot Restriction - Field Restriction Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3837191184 - Field 3399910940 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Co-Man Lot Restriction - Field Variant No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2882085839 - Method 667338867 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Prod. Order %2 has been created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COM Order Mgt - Method CreateProductionOrder - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2882085839 - Method 2313360992 - NamedType 2783453038" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Order No. %1 have been created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COM Order Mgt - Method ProdOrderTransfer - NamedType TransfLnl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1879552718 - NamedType 1412534533" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 annual access license expires in %2 days.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType ExpiryDateCountDownMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1879552718 - NamedType 1224024715" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 annual access license has expired.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType LicenseExpiryErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1879552718 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You do not have license to access %1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1879552718 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You do not have license to access %1: %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ACO-M Version: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CU Version: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ACO-M Build Date: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing includes following granules:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 2037309875" size-unit="char" translate="yes" xml:space="preserve">
+          <source>  * Co-Manufacturing Management</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text00501</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
+          <source>© 2019-2026 SBC Dynamics ERP</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text009</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text010</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Build: %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text011</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - Control 3803345013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - Control Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3919738911 - Control 1430049525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 Business Central</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - Control Dynamics 365 Business Central - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Co-Man Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 1197239747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished Production Order Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control Finished Prod. Order Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 297077237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Co-Man Location Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control Co-Man Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 297077237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control Co-Man Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 65994182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material coming from, finish good going to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control From/To Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 65994182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From/To Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control From/To Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 1255518434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released Production Order Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control Released Prod. Order Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Control 1018586038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Control IWX Attached Documents2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 3550935962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Open and Archive action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action OpenArchive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 3550935962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open and Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action OpenArchive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 3550935962 - Method 1377591017 - NamedType 3226800642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to Open and achive the Co-Man?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action OpenArchive - Method OnAction - NamedType ConOpen</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 2757523496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Outbound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 3468651621 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Out-Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action OutTransfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 3468651621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out-Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action OutTransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 1510913172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out_Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Out_Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 1037826143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted transfer Receipts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Posted Transfer Receipts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 1037826143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Posted Transfer Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 2974134790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items that are inbound on warehouse put-away documents for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Put-away - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 2974134790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Put-away</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Put-away - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 770987266 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View inbound items that have been Receipt with warehouse activities for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Whse. Receipt Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 770987266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Whse. Receipt Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2937109315 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man Card - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 297077237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Co-Man Location Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control Co-Man Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 297077237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control Co-Man Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 65994182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material coming from, finish good going to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control From/To Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 65994182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From/To Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control From/To Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Control 1018586038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Control IWX Attached Documents2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 3550935962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Open and Archive action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action OpenArchive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 3550935962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open and Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action OpenArchive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 3550935962 - Method 1377591017 - NamedType 3226800642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to Open and achive the Co-Man?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action OpenArchive - Method OnAction - NamedType ConOpen</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 2757523496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Outbound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 3468651621 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Out-Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action OutTransfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 3468651621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out-Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action OutTransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 1510913172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out_Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Out_Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 1037826143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted transfer Receipts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Posted Transfer Receipts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 1037826143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Posted Transfer Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 2974134790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items that are inbound on warehouse put-away documents for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Put-away - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 2974134790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Put-away</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Put-away - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 770987266 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View inbound items that have been Receipt with warehouse activities for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Whse. Receipt Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 770987266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Whse. Receipt Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386076785 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Archive Co-Man List - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 1197239747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished Production Order Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control Finished Prod. Order Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 297077237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Co-Man Location Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control Co-Man Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 297077237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control Co-Man Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 65994182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material coming from, finish good going to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control From/To Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 65994182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From/To Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control From/To Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 1255518434 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released Production Order Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control Released Prod. Order Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Control 1018586038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Control IWX Attached Documents2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3254429288 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Close and Archive action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action CloseArchive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3254429288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close and Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action CloseArchive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3254429288 - Method 1377591017 - NamedType 2142474864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to close and achive the Co-Man?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action CloseArchive - Method OnAction - NamedType ConClose</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3254429288 - Method 1377591017 - NamedType 326704117" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot close and archive a Co-Man when one or more production order still released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action CloseArchive - Method OnAction - NamedType ArError</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 1247650216 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Consumption Journal action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Consumption Journal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 1247650216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consumption Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Consumption Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3342642175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Create Outbound Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Create Outbound Transfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3342642175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Outbound Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Create Outbound Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 2015742357 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Lot Restriction action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Lot Restriction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 2015742357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot Restriction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Lot Restriction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 624706774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the New Co-Man Production Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action New Co-Man Production Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 624706774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Co-Man Production Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action New Co-Man Production Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 2757523496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Outbound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3468651621 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Out-Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action OutTransfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3468651621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out-Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action OutTransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 1510913172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out_Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Out_Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 1037826143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted transfer Receipts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Posted Transfer Receipts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 1037826143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Posted Transfer Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 2974134790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items that are inbound on warehouse put-away documents for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Put-away - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 2974134790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Put-away</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Put-away - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 770987266 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View inbound items that have been Receipt with warehouse activities for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Whse. Receipt Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 770987266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Whse. Receipt Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1117845285 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Card - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 297077237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Co-Man Location Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control Co-Man Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 297077237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control Co-Man Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 65994182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material coming from, finish good going to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control From/To Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 65994182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From/To Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control From/To Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Control 1018586038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control IWX Attached Documents2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3254429288 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Close and Archive action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action CloseArchive - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3254429288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close and Archive</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action CloseArchive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3254429288 - Method 1377591017 - NamedType 2142474864" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to close and achive the Co-Man?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action CloseArchive - Method OnAction - NamedType ConClose</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3254429288 - Method 1377591017 - NamedType 326704117" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot close and archive a Co-Man when one or more production order still released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action CloseArchive - Method OnAction - NamedType ArError</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 1781379225 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the New Co-Man action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action NewCo-Man - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 1781379225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Co-Man</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action NewCo-Man - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 2757523496 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Outbound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3468651621 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Out-Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action OutTransfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3468651621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out-Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action OutTransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 1510913172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Out_Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Out_Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 1037826143 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted transfer Receipts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Posted Transfer Receipts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 1037826143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Posted Transfer Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 2974134790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items that are inbound on warehouse put-away documents for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Put-away - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 2974134790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Put-away</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Put-away - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 770987266 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View inbound items that have been Receipt with warehouse activities for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Whse. Receipt Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 770987266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Whse. Receipt Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 1587086413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Category_Category4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2233657647 - Action 2224783030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Action Category_Category5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Lot Restrictions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Control 1482668068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Lot No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control Lot No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Control 1482668068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control Lot No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Control 2006041171 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Restriction Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control Restriction Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Control 2006041171 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restriction Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control Restriction Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Control 2941802292 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Restriction Status field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control Restriction Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1285447729 - Control 2941802292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restriction Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control Restriction Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished Production Order Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the due date of the production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 3645731908 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the In-Transfer Order No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control In-Transfer Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 3645731908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In-Transfer Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control In-Transfer Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location code to which you want to post the finished product from this production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved entry or record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many units of the item or the family to produce (production quantity).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 3123169861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the routing number used for this production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Routing No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 3123169861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routing No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Routing No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 1882905478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the source document that the entry originates from.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Source No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Control 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Control Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 3342642175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Create Outbound Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Create Outbound Transfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 3342642175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Outbound Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Create Outbound Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 3221732535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Inbound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 3090859438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the In-Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action InTransfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 3090859438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In-Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action InTransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 1179182787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In_Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action In_Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 1273283592 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted transfer shipments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Posted S&amp;hipments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 1273283592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>S&amp;hipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Posted S&amp;hipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 647744736 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related Registered Pick.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Registered Registered Pick Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 647744736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered Registered Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Registered Registered Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 997963520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items that are outbound on warehouse pick documents for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Pick Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 997963520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2551057102 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View outbound items that have been shipped with warehouse activities for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Whse. Shi&amp;pments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2551057102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Shi&amp;pments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Whse. Shi&amp;pments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 407220332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted Purchase Invoice Lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Posted Purchase Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 407220332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Posted Purchase Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 387971303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Purchase Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Purchase Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2276014012 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Subcontracting Worksheet action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Subcontracting Worksheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2316154885 - Action 2276014012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subcontracting Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Finished ProdOrder Subform - Action Subcontracting Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Co-Man</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Method 4177352842 - NamedType 2353246636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to create Co-Man Order?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Method OnQueryClosePage - NamedType ConLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Method 4177352842 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 should not be blank.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Method OnQueryClosePage - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 203151679 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CItem field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Consumed Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 203151679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CItem</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Consumed Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 1482984766 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the InBoundTransfer field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Create Inbound Transfer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 1482984766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InBoundTransfer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Create Inbound Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 3649072766 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the InBoundTransferShip field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Create Inbound Transfer Shipment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 3649072766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InBoundTransferShip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Create Inbound Transfer Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DueDate field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DueDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 3473541370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control From Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 3473541370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control From Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 186286912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control From Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 186286912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control From Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 3737891889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The item that is being built (Source No. from the Production Order Header) has a production unit of measure associated with it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control ItemProductioUOM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 3737891889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Production Unit of Measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control ItemProductioUOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 390917702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 390917702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 1743251068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field stores the number of batches to be made in this batched production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control NumberOfBatches - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 1743251068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Batches</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control NumberOfBatches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 1311084302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the OutItem field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Output Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 1311084302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OutItem</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Output Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 728255695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the OutQty field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Output Qty. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 728255695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OutQty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control Output Qty. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 104025320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Lot No. for all batches are identical.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control SameLotNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 786325213 - Control 104025320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Identical Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control SameLotNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Co-Man Production Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Method 4177352842 - NamedType 2353246636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to create Production Order?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Method OnQueryClosePage - NamedType ConLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Method 4177352842 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 should not be blank.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Method OnQueryClosePage - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 2362480300 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the TranHCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Add to Transfer Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 2362480300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TranHCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Add to Transfer Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 203151679 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CItem field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Consumed Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 203151679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CItem</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Consumed Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 1482984766 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the InBoundTransfer field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Create Inbound Transfer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 1482984766 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InBoundTransfer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Create Inbound Transfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DueDate field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DueDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 3473541370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control From Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 3473541370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control From Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 186286912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control From Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 186286912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control From Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 3737891889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The item that is being built (Source No. from the Production Order Header) has a production unit of measure associated with it.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control ItemProductioUOM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 3737891889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Production Unit of Measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control ItemProductioUOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 390917702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the CLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 390917702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 1743251068 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This field stores the number of batches to be made in this batched production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control NumberOfBatches - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 1743251068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Batches</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control NumberOfBatches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 1311084302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the OutItem field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Output Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 1311084302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OutItem</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Output Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 728255695 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the OutQty field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Output Qty. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 728255695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OutQty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control Output Qty. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 104025320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Lot No. for all batches are identical.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control SameLotNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 297860358 - Control 104025320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Identical Lot No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man Prod. Order - Control SameLotNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released Production Order Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the due date of the production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 3645731908 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the In-Transfer Order No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control In-Transfer Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 3645731908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In-Transfer Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control In-Transfer Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location code to which you want to post the finished product from this production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved entry or record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many units of the item or the family to produce (production quantity).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 3123169861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the routing number used for this production order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Routing No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 3123169861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Routing No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Routing No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 1882905478 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the source document that the entry originates from.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Source No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Control 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Control Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 3342642175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Create Outbound Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Create Outbound Transfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 3342642175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Outbound Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Create Outbound Transfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 3221732535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inbound</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Inbound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 3090859438 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the In-Transfer Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action InTransfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 3090859438 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In-Transfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action InTransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 1179182787 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In_Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action In_Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 1273283592 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted transfer shipments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Posted S&amp;hipments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 1273283592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>S&amp;hipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Posted S&amp;hipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 647744736 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related Registered Pick.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Registered Registered Pick Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 647744736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registered Registered Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Registered Registered Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 997963520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items that are outbound on warehouse pick documents for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Pick Lines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 997963520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Pick Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Pick Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 2551057102 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View outbound items that have been shipped with warehouse activities for the transfer order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Whse. Shi&amp;pments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 2551057102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Shi&amp;pments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Whse. Shi&amp;pments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 35450067 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 407220332 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View related posted Purchase Invoice Lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Posted Purchase Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 407220332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Invoices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Posted Purchase Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 387971303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Purchase Order action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Purchase Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 387971303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 2276014012 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Subcontracting Worksheet action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Subcontracting Worksheet - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2470941168 - Action 2276014012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subcontracting Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Subcontracting Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Method 4177352842 - NamedType 2353246636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to create Transfer Order?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Method OnQueryClosePage - NamedType ConLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Method 4177352842 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 should not be blank.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Method OnQueryClosePage - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DueDate field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DueDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 3473541370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 3473541370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 186286912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 186286912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ItemNo field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 3737891889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Unit of Measure. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control ItemProductioUOM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 3737891889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Unit of Measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control ItemProductioUOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 390917702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ToLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 390917702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ToLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Qty field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 3790035013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ToLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control To Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2200282144 - Control 3790035013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ToLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control To Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order PRI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1930263167" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buyer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType BuyerCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 75049271" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Confirm To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType ConfirmToCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1170285572" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Discount:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType InvDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 581024604" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType ItemNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 650077689" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType PageCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1928308579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType PhoneNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1517777218" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PURCHASE ORDER</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType PurchOrderCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 147899814" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Date:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType PurchOrderDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 4270456244" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order Number:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType PurchOrderNumCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 3246368361" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType QuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 851017600" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receive By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType ReceiveByCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 229963946" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType ShipCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 2279354260" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship Via</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType ShipViaCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 3126303398" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtotal:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType SubtotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1729335317" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Ident. Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType TaxIdentTypeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 3180208483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Terms</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType TermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Tax Breakdown:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Other Taxes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Sales Tax:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax Breakdown:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Tax:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 3283546407" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tax:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType Text008</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1209767978" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType ToCaption1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 2566983481" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType ToCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1349122805" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType TotalPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1065670270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType UnitCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 361562039" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType VendorIDCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 1397476154" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Invoice No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType VendorInvoiceNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - NamedType 3257397675" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - NamedType VendorOrderNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Control 4198158427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Number of Copies field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Control NumberOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Control 4198158427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Copies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Control NumberOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Company Address field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Control 237656433 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Item Number field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Control PrintItemNumber - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 232143914 - Control 237656433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Item Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AQD CO Purchase Order PRI - Control PrintItemNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3180729141 - Control 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2706473163">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD CMStockkeepingUnitCard - Control AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3180729141 - Control 2480433089 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2706473163">
+          <source>Specifies the value of the WIP Item field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD CMStockkeepingUnitCard - Control AQD WIP Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3180729141 - Control 2480433089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2706473163">
+          <source>WIP Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD CMStockkeepingUnitCard - Control AQD WIP Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1226266335 - Action 3779025433 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+          <source>Executes the About Acumens Co-Manufacturing page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1226266335 - Action 3779025433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+          <source>About the Co-Manufacturing App</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1226266335 - Action 1836809717 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+          <source>Executes the Manufacturing Setup action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1226266335 - Action 1836809717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+          <source>Manufacturing Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1226266335 - Action 1757218312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+          <source>Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 1265202239 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies the value of the Balance Charge Item field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD Balance Charge Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 1265202239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Balance Charge Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD Balance Charge Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 682306132 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies the value of the BOM to PO field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD BOM to PO - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 682306132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>BOM to PO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD BOM to PO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 1455483902 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies the value of the Co-Man Location field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD Co-Man Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 1455483902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Co-Man Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD Co-Man Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 3146221065 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies the value of the Consume Blocked Lot field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD Consume Blocked Lot - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 3146221065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Consume Blocked Lot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD Consume Blocked Lot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 2898113676 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>Specifies the value of the PO. to TR. Order field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD PO. to TR. Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 49460664 - Control 2898113676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
+          <source>PO. to TR. Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMLocationCard - Control AQD PO. to TR. Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 60014358 - Control 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379888169">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 60014358 - Control 1625389005 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379888169">
+          <source>Specifies the value of the Co-Man No. Series field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Co-Man No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 60014358 - Control 1625389005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379888169">
+          <source>Co-Man No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Co-Man No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 60014358 - Control 1400050298 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379888169">
+          <source>Specifies the value of the Journal Batch Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Subc. Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 60014358 - Control 1400050298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379888169">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Subc. Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 60014358 - Control 1648110271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379888169">
+          <source>Specifies the value of the Worksheet Template Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Subcon Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 60014358 - Control 1648110271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1379888169">
+          <source>Worksheet Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Subcon Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3742258799 - Control 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3698582500">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMReleasedProductionOrder - Control AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3742258799 - Control 1318131400 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3698582500">
+          <source>Specifies the value of the In-Transfer Order No. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMReleasedProductionOrder - Control AQD In-Transfer Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3742258799 - Control 1318131400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3698582500">
+          <source>In-Transfer Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMReleasedProductionOrder - Control AQD In-Transfer Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3477340018 - Action 2200282144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2344297010">
+          <source>Executes the Transfer To action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPostedPurchaseReceipt - Action AQD Transfer To - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3477340018 - Action 2200282144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2344297010">
+          <source>Transfer To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPostedPurchaseReceipt - Action AQD Transfer To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3477340018 - Action 1061061719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2344297010">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPostedPurchaseReceipt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1239733920 - Action 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1239733920 - Action 389341237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Executes the CO Purchase Comments action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1239733920 - Action 389341237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>CO Purchase Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1239733920 - Action 232143914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Executes the CO Purchase Order PRI report action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Order PRI - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1239733920 - Action 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>CO Purchase Order PRI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Order PRI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1239733920 - Action 1061061719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1308419978 - Action 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1308419978 - Action 389341237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Executes the CO Purchase Comments action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1308419978 - Action 389341237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>CO Purchase Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1308419978 - Action 232143914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Executes the CO Purchase Order PRI report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Order PRI - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1308419978 - Action 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>CO Purchase Order PRI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Order PRI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1308419978 - Action 1061061719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2557197036 - Field 750359060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3550754772">
+          <source>Co-Man No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD AQDTransferReceiptHeader - Field AQD Co-Man No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 866928217 - Field 476769445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
+          <source>PO BOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD CMPurchaseLine - Field AQD PO BOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 417085529 - Field 2480433089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 494646383">
+          <source>WIP Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD CMStockkeepingUnit - Field AQD WIP Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3341792116 - Field 1265202239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Balance Charge Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMLocation - Field AQD Balance Charge Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3341792116 - Field 682306132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>BOM to PO</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMLocation - Field AQD BOM to PO - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3341792116 - Field 1455483902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Co-Man Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMLocation - Field AQD Co-Man Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3341792116 - Field 3146221065 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>Consume Blocked Lot</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMLocation - Field AQD Consume Blocked Lot - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3341792116 - Field 2898113676 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
+          <source>PO. to TR. Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMLocation - Field AQD PO. to TR. Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 60014358 - Field 1625389005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1379888169">
+          <source>Co-Man No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMManufacturingSetup - Field AQD Co-Man No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 60014358 - Field 1400050298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1379888169">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMManufacturingSetup - Field AQD Subc. Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 60014358 - Field 1648110271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1379888169">
+          <source>Worksheet Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMManufacturingSetup - Field AQD Subcon Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1398163052 - Field 750359060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2308244223">
+          <source>Co-Man No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMProductionOrder - Field AQD Co-Man No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1398163052 - Field 1318131400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2308244223">
+          <source>In-Transfer Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMProductionOrder - Field AQD In-Transfer Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1152930779 - Field 750359060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 151805736">
+          <source>Co-Man No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMTransferHeader - Field AQD Co-Man No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1330759264 - Field 1919580834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Vendor Comment Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD Purchases&amp;PayablesSetup - Field AQD Vendor Comment Code - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
