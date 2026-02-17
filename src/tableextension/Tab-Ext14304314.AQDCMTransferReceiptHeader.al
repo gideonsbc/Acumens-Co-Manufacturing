@@ -1,4 +1,4 @@
-tableextension 14304314 "AQD AQDTransferReceiptHeader" extends "Transfer Receipt Header"
+tableextension 14304314 "AQD CMTransferReceiptHeader" extends "Transfer Receipt Header"
 {
     fields
     {

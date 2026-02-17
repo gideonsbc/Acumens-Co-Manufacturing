@@ -1808,30 +1808,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD CMStockkeepingUnitCard - Control AQD WIP Item - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1226266335 - Action 3779025433 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+        <trans-unit id="PageExtension 860615524 - Action 3779025433 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
           <source>Executes the About Acumens Co-Manufacturing page.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1226266335 - Action 3779025433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+        <trans-unit id="PageExtension 860615524 - Action 3779025433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
           <source>About the Co-Manufacturing App</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1226266335 - Action 1836809717 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+        <trans-unit id="PageExtension 860615524 - Action 1836809717 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
           <source>Executes the Manufacturing Setup action.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1226266335 - Action 1836809717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+        <trans-unit id="PageExtension 860615524 - Action 1836809717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
           <source>Manufacturing Setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1226266335 - Action 1757218312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
+        <trans-unit id="PageExtension 860615524 - Action 1757218312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
           <source>Co-Manufacturing</source>
           <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COAcumensInventoryQCSetup - Action AQD Manufacturing - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD Manufacturing - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 49460664 - Control 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
           <source>Acumens Co-Manufacturing</source>
@@ -1923,6 +1923,66 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMManufacturingSetup - Control AQD Subcon Template Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1210030219 - Action 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderExt - Action AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1210030219 - Action 389341237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Executes the CO Purchase Comments action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderExt - Action AQD CO Purchase Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1210030219 - Action 389341237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>CO Purchase Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderExt - Action AQD CO Purchase Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1210030219 - Action 232143914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Executes the CO Purchase Order PRI report action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderExt - Action AQD CO Purchase Order PRI - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1210030219 - Action 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>CO Purchase Order PRI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderExt - Action AQD CO Purchase Order PRI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1210030219 - Action 1061061719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderExt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3854025461 - Action 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderListExt - Action AQD Acumens Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3854025461 - Action 389341237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Executes the CO Purchase Comments action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderListExt - Action AQD CO Purchase Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3854025461 - Action 389341237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>CO Purchase Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderListExt - Action AQD CO Purchase Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3854025461 - Action 232143914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Executes the CO Purchase Order PRI report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderListExt - Action AQD CO Purchase Order PRI - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3854025461 - Action 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>CO Purchase Order PRI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderListExt - Action AQD CO Purchase Order PRI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3854025461 - Action 1061061719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMPurchaseOrderListExt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3742258799 - Control 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3698582500">
           <source>Acumens Co-Manufacturing</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1953,80 +2013,25 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPostedPurchaseReceipt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1239733920 - Action 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
-          <source>Acumens Co-Manufacturing</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD Acumens Co-Manufacturing - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1239733920 - Action 389341237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
-          <source>Executes the CO Purchase Comments action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Comments - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1239733920 - Action 389341237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
-          <source>CO Purchase Comments</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Comments - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1239733920 - Action 232143914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
-          <source>Executes the CO Purchase Order PRI report action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Order PRI - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1239733920 - Action 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
-          <source>CO Purchase Order PRI</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD CO Purchase Order PRI - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1239733920 - Action 1061061719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
-          <source>Acumens Co-Manufacturing</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderExt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1308419978 - Action 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
-          <source>Acumens Co-Manufacturing</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD Acumens Co-Manufacturing - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1308419978 - Action 389341237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
-          <source>Executes the CO Purchase Comments action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Comments - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1308419978 - Action 389341237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
-          <source>CO Purchase Comments</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Comments - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1308419978 - Action 232143914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
-          <source>Executes the CO Purchase Order PRI report.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Order PRI - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1308419978 - Action 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
-          <source>CO Purchase Order PRI</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD CO Purchase Order PRI - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1308419978 - Action 1061061719 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3195034673">
-          <source>Acumens Co-Manufacturing</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COPurchaseOrderListExt - Action AQD Acumens Co-Manufacturing Promoted - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2557197036 - Field 750359060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3550754772">
-          <source>Co-Man No.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD AQDTransferReceiptHeader - Field AQD Co-Man No. - Property Caption</note>
-        </trans-unit>
         <trans-unit id="TableExtension 866928217 - Field 476769445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1519909599">
           <source>PO BOM</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD CMPurchaseLine - Field AQD PO BOM - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2260699798 - Field 1919580834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
+          <source>Vendor Comment Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD CMPurchases&amp;PayablesSetup - Field AQD Vendor Comment Code - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 417085529 - Field 2480433089 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 494646383">
           <source>WIP Item</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD CMStockkeepingUnit - Field AQD WIP Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3345823486 - Field 750359060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3550754772">
+          <source>Co-Man No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD CMTransferReceiptHeader - Field AQD Co-Man No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 3341792116 - Field 1265202239 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3891454143">
           <source>Balance Charge Item</source>
@@ -2082,11 +2087,6 @@
           <source>Co-Man No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMTransferHeader - Field AQD Co-Man No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 1330759264 - Field 1919580834 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3921990236">
-          <source>Vendor Comment Code</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD Purchases&amp;PayablesSetup - Field AQD Vendor Comment Code - Property Caption</note>
         </trans-unit>
       </group>
     </body>

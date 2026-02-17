@@ -1,4 +1,4 @@
-pageextension 14304331 "AQD COAcumensInventoryQCSetup" extends "AQD Acumens Inventory QC Setup"
+pageextension 14304331 "AQD COMAcumensInventoryQCSetup" extends "AQD Acumens Inventory QC Setup"
 {
     actions
     {
