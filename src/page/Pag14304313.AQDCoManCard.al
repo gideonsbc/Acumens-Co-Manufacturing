@@ -223,7 +223,7 @@ page 14304313 "AQD Co-Man Card"
         {
             group(Category_Process)
             {
-                Caption = 'Process', Comment = 'Generated from the PromotedActionCategories property index 1.';
+                Caption = 'Home', Comment = 'Generated from the PromotedActionCategories property index 1.';
 
                 actionref("New Co-Man Production Order_Promoted"; "New Co-Man Production Order")
                 {
@@ -234,27 +234,27 @@ page 14304313 "AQD Co-Man Card"
                 actionref("Consumption Journal_Promoted"; "Consumption Journal")
                 {
                 }
-                group(Category_Category4)
+            }
+            group(Category_Category4)
+            {
+                Caption = 'Outbound', Comment = 'Generated from the PromotedActionCategories property index 2';
+
+                actionref("OutTransfer Order_Promoted"; "OutTransfer Order")
                 {
-                    Caption = 'Outbound';
+                }
+                actionref("Whse. Receipt Lines_Promoted"; "Whse. Receipt Lines")
+                {
+                }
+                actionref("Put-away_Promoted"; "Put-away")
+                {
+                }
+            }
+            group(Category_Category5)
+            {
+                Caption = 'Posted', Comment = 'Generated from the PromotedActionCategories property index 3.';
 
-                    actionref("OutTransfer Order_Promoted"; "OutTransfer Order")
-                    {
-                    }
-                    actionref("Whse. Receipt Lines_Promoted"; "Whse. Receipt Lines")
-                    {
-                    }
-                    actionref("Put-away_Promoted"; "Put-away")
-                    {
-                    }
-                    group(Category_Category5)
-                    {
-                        Caption = 'Posted';
-
-                        actionref("Posted Transfer Receipts_Promoted"; "Posted Transfer Receipts")
-                        {
-                        }
-                    }
+                actionref("Posted Transfer Receipts_Promoted"; "Posted Transfer Receipts")
+                {
                 }
             }
         }

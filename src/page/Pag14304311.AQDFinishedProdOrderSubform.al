@@ -80,41 +80,45 @@ page 14304311 "AQD Finished ProdOrder Subform"
     {
         area(Processing)
         {
-            action("Purchase Order")
+            group(Home)
             {
-                ApplicationArea = All;
-                Caption = 'Purchase Order';
-                Image = PurchaseInvoice;
-                RunObject = page "Purchase Lines";
-                RunPageLink = "Document Type" = filter(Order), "Prod. Order No." = field("No.");
-                ToolTip = 'Executes the Purchase Order action.';
-            }
-            action("Create Outbound Transfer Order")
-            {
-                ApplicationArea = All;
-                Caption = 'Create Outbound Transfer Order';
-                Image = TransferOrder;
-                ToolTip = 'Executes the Create Outbound Transfer Order action.';
+                Caption = 'Process';
+                action("Purchase Order")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Purchase Order';
+                    Image = PurchaseInvoice;
+                    RunObject = page "Purchase Lines";
+                    RunPageLink = "Document Type" = filter(Order), "Prod. Order No." = field("No.");
+                    ToolTip = 'Executes the Purchase Order action.';
+                }
+                action("Create Outbound Transfer Order")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Create Outbound Transfer Order';
+                    Image = TransferOrder;
+                    ToolTip = 'Executes the Create Outbound Transfer Order action.';
 
-                trigger OnAction()
-                var
-                    ProdOrder: Record "Production Order";
-                    BatchProdOrderMgt: Codeunit "AQD COM Order Mgt";
-                    SelectionFilterManagement: Codeunit SelectionFilterManagement;
-                    RecRef: RecordRef;
-                begin
-                    CurrPage.SetSelectionFilter(ProdOrder);
-                    RecRef.GetTable(ProdOrder);
-                    BatchProdOrderMgt.ProdOrderTransfer(SelectionFilterManagement.GetSelectionFilter(RecRef, ProdOrder.FieldNo("No.")));
-                end;
-            }
-            action("Subcontracting Worksheet")
-            {
-                ApplicationArea = All;
-                Caption = 'Subcontracting Worksheet';
-                Image = Worksheet;
-                RunObject = page "Subcontracting Worksheet";
-                ToolTip = 'Executes the Subcontracting Worksheet action.';
+                    trigger OnAction()
+                    var
+                        ProdOrder: Record "Production Order";
+                        BatchProdOrderMgt: Codeunit "AQD COM Order Mgt";
+                        SelectionFilterManagement: Codeunit SelectionFilterManagement;
+                        RecRef: RecordRef;
+                    begin
+                        CurrPage.SetSelectionFilter(ProdOrder);
+                        RecRef.GetTable(ProdOrder);
+                        BatchProdOrderMgt.ProdOrderTransfer(SelectionFilterManagement.GetSelectionFilter(RecRef, ProdOrder.FieldNo("No.")));
+                    end;
+                }
+                action("Subcontracting Worksheet")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Subcontracting Worksheet';
+                    Image = Worksheet;
+                    RunObject = page "Subcontracting Worksheet";
+                    ToolTip = 'Executes the Subcontracting Worksheet action.';
+                }
             }
             group(Inbound)
             {
@@ -148,27 +152,27 @@ page 14304311 "AQD Finished ProdOrder Subform"
                     RunPageView = sorting("Source Type", "Source Subtype", "Source No.");
                     ToolTip = 'View items that are outbound on warehouse pick documents for the transfer order.';
                 }
-                group(In_Posted)
+            }
+            group(In_Posted)
+            {
+                Caption = 'In_Posted';
+                action("Posted S&hipments")
                 {
-                    Caption = 'In_Posted';
-                    action("Posted S&hipments")
-                    {
-                        ApplicationArea = Location;
-                        Caption = 'S&hipments';
-                        Image = Shipment;
-                        RunObject = Page "Posted Transfer Shipments";
-                        RunPageLink = "Transfer Order No." = field("AQD In-Transfer Order No.");
-                        ToolTip = 'View related posted transfer shipments.';
-                    }
-                    action("Registered Registered Pick Lines")
-                    {
-                        ApplicationArea = Location;
-                        Caption = 'Registered Registered Pick Lines';
-                        Image = Shipment;
-                        RunObject = Page "Registered Whse. Act.-Lines";
-                        RunPageLink = "Source No." = field("AQD In-Transfer Order No.");
-                        ToolTip = 'View related Registered Pick.';
-                    }
+                    ApplicationArea = Location;
+                    Caption = 'S&hipments';
+                    Image = Shipment;
+                    RunObject = Page "Posted Transfer Shipments";
+                    RunPageLink = "Transfer Order No." = field("AQD In-Transfer Order No.");
+                    ToolTip = 'View related posted transfer shipments.';
+                }
+                action("Registered Registered Pick Lines")
+                {
+                    ApplicationArea = Location;
+                    Caption = 'Registered Registered Pick Lines';
+                    Image = Shipment;
+                    RunObject = Page "Registered Whse. Act.-Lines";
+                    RunPageLink = "Source No." = field("AQD In-Transfer Order No.");
+                    ToolTip = 'View related Registered Pick.';
                 }
             }
             group(Posted)

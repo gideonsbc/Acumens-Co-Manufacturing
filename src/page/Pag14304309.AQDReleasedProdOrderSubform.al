@@ -80,41 +80,45 @@ page 14304309 "AQD Released ProdOrder Subform"
     {
         area(Processing)
         {
-            action("Purchase Order")
+            group(Home)
             {
-                ApplicationArea = All;
-                Caption = 'Purchase Order';
-                Image = PurchaseInvoice;
-                RunObject = page "Purchase Lines";
-                RunPageLink = "Document Type" = filter(Order), "Prod. Order No." = field("No.");
-                ToolTip = 'Executes the Purchase Order action.';
-            }
-            action("Create Outbound Transfer Order")
-            {
-                ApplicationArea = All;
-                Caption = 'Create Outbound Transfer Order';
-                Image = TransferOrder;
-                ToolTip = 'Executes the Create Outbound Transfer Order action.';
+                Caption = 'Process';
+                action("Purchase Order")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Purchase Order';
+                    Image = PurchaseInvoice;
+                    RunObject = page "Purchase Lines";
+                    RunPageLink = "Document Type" = filter(Order), "Prod. Order No." = field("No.");
+                    ToolTip = 'Executes the Purchase Order action.';
+                }
+                action("Create Outbound Transfer Order")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Create Outbound Transfer Order';
+                    Image = TransferOrder;
+                    ToolTip = 'Executes the Create Outbound Transfer Order action.';
 
-                trigger OnAction()
-                var
-                    ProdOrder: Record "Production Order";
-                    BatchProdOrderMgt: Codeunit "AQD COM Order Mgt";
-                    SelectionFilterManagement: Codeunit SelectionFilterManagement;
-                    RecRef: RecordRef;
-                begin
-                    CurrPage.SetSelectionFilter(ProdOrder);
-                    RecRef.GetTable(ProdOrder);
-                    BatchProdOrderMgt.ProdOrderTransfer(SelectionFilterManagement.GetSelectionFilter(RecRef, ProdOrder.FieldNo("No.")));
-                end;
-            }
-            action("Subcontracting Worksheet")
-            {
-                ApplicationArea = All;
-                Caption = 'Subcontracting Worksheet';
-                Image = Worksheet;
-                RunObject = page "Subcontracting Worksheet";
-                ToolTip = 'Executes the Subcontracting Worksheet action.';
+                    trigger OnAction()
+                    var
+                        ProdOrder: Record "Production Order";
+                        BatchProdOrderMgt: Codeunit "AQD COM Order Mgt";
+                        SelectionFilterManagement: Codeunit SelectionFilterManagement;
+                        RecRef: RecordRef;
+                    begin
+                        CurrPage.SetSelectionFilter(ProdOrder);
+                        RecRef.GetTable(ProdOrder);
+                        BatchProdOrderMgt.ProdOrderTransfer(SelectionFilterManagement.GetSelectionFilter(RecRef, ProdOrder.FieldNo("No.")));
+                    end;
+                }
+                action("Subcontracting Worksheet")
+                {
+                    ApplicationArea = All;
+                    Caption = 'Subcontracting Worksheet';
+                    Image = Worksheet;
+                    RunObject = page "Subcontracting Worksheet";
+                    ToolTip = 'Executes the Subcontracting Worksheet action.';
+                }
             }
             group(Inbound)
             {
