@@ -456,7 +456,7 @@ report 14304309 "AQD CO Purchase Order PRI"
                 PurchasesSetup: Record "Purchases & Payables Setup";
                 I: Integer;
             begin
-                CalcFields(SystemCreatedBy);
+                //CalcFields(SystemCreatedBy);
                 Clear(CompanyAddress2);
                 if PrintCompany then
                     if RespCenter.Get("Responsibility Center") then begin
@@ -467,29 +467,52 @@ report 14304309 "AQD CO Purchase Order PRI"
                             I += 1;
                             BillToAddress[I] := RespCenter.Name;
                         end;
-                        if RespCenter."Remit Address" <> '' then begin
+                        if RespCenter.Address <> '' then begin
                             I += 1;
-                            BillToAddress[I] := RespCenter."Remit Address";
-                            if RespCenter."Remit Address 2" <> '' then begin
-                                BillToAddress[I] += ', ' + RespCenter."Remit Address 2";
+                            BillToAddress[I] := RespCenter.Address;
+                            if RespCenter."Address 2" <> '' then begin
+                                BillToAddress[I] += ', ' + RespCenter."Address 2";
                             end;
                         end;
-                        if RespCenter."Remit City" <> '' then begin
+                        if RespCenter.City <> '' then begin
                             I += 1;
-                            BillToAddress[I] := RespCenter."Remit City";
-                            if RespCenter."Remit County" <> '' then BillToAddress[I] += ', ' + RespCenter."Remit County";
-                            if RespCenter."Remit Post Code" <> '' then BillToAddress[I] += ' ' + RespCenter."Remit Post Code";
-                            if RespCenter."Remit Country/Region Code" <> '' then BillToAddress[I] += ' ' + RespCenter."Remit Country/Region Code";
+                            BillToAddress[I] := RespCenter.City;
+                            if RespCenter.County <> '' then BillToAddress[I] += ', ' + RespCenter.County;
+                            if RespCenter."Post Code" <> '' then BillToAddress[I] += ' ' + RespCenter."Post Code";
+                            if RespCenter."Country/Region Code" <> '' then BillToAddress[I] += ' ' + RespCenter."Country/Region Code";
                         end;
-                        if RespCenter."Remit Phone No." <> '' then begin
+                        if RespCenter."Phone No." <> '' then begin
                             I += 1;
-                            BillToAddress[I] := RespCenter."Remit Phone No.";
+                            BillToAddress[I] := RespCenter."Phone No.";
                         end;
-                        if RespCenter."Remit E-Mail" <> '' then begin
+                        if RespCenter."E-Mail" <> '' then begin
                             I += 1;
-                            BillToAddress[I] := RespCenter."Remit E-Mail";
+                            BillToAddress[I] := RespCenter."E-Mail";
                         end;
                     end;
+                //     if RespCenter."Remit Address" <> '' then begin
+                //         I += 1;
+                //         BillToAddress[I] := RespCenter."Remit Address";
+                //         if RespCenter."Remit Address 2" <> '' then begin
+                //             BillToAddress[I] += ', ' + RespCenter."Remit Address 2";
+                //         end;
+                //     end;
+                //     if RespCenter."Remit City" <> '' then begin
+                //         I += 1;
+                //         BillToAddress[I] := RespCenter."Remit City";
+                //         if RespCenter."Remit County" <> '' then BillToAddress[I] += ', ' + RespCenter."Remit County";
+                //         if RespCenter."Remit Post Code" <> '' then BillToAddress[I] += ' ' + RespCenter."Remit Post Code";
+                //         if RespCenter."Remit Country/Region Code" <> '' then BillToAddress[I] += ' ' + RespCenter."Remit Country/Region Code";
+                //     end;
+                //     if RespCenter."Remit Phone No." <> '' then begin
+                //         I += 1;
+                //         BillToAddress[I] := RespCenter."Remit Phone No.";
+                //     end;
+                //     if RespCenter."Remit E-Mail" <> '' then begin
+                //         I += 1;
+                //         BillToAddress[I] := RespCenter."Remit E-Mail";
+                //     end;
+                // end;
                 //CurrReport.LANGUAGE := Language.GetLanguageID("Language Code");
                 IF "Purchaser Code" = '' THEN
                     CLEAR(SalesPurchPerson)
@@ -516,19 +539,28 @@ report 14304309 "AQD CO Purchase Order PRI"
                     UseDate := "Posting Date"
                 ELSE
                     UseDate := WORKDATE;
-                PurchasesSetup.Get();
-                if PurchasesSetup."Vendor Comment Code" <> '' then begin
-                    CommentLine.SetRange("Table Name", CommentLine."Table Name"::Vendor);
-                    CommentLine.SetRange("No.", "Buy-from Vendor No.");
-                    CommentLine.SetRange(Code, PurchasesSetup."Vendor Comment Code");
-                    if CommentLine.FindSet() then
-                        repeat
-                            if VendorComment = '' then
-                                VendorComment := CommentLine.Comment
-                            else
-                                VendorComment += ', ' + CommentLine.Comment;
-                        until CommentLine.Next() = 0;
-                end;
+                // PurchasesSetup.Get();
+                // if PurchasesSetup."AQD Vendor Comment Code" <> '' then begin
+                // CommentLine.SetRange("Table Name", CommentLine."Table Name"::Vendor);
+                // CommentLine.SetRange("No.", "Buy-from Vendor No.");
+                // CommentLine.SetRange(Code, PurchasesSetup."AQD Vendor Comment Code");
+                // if CommentLine.FindSet() then
+                //     repeat
+                //         if VendorComment = '' then
+                //             VendorComment := CommentLine.Comment
+                //         else
+                //             VendorComment += ', ' + CommentLine.Comment;
+                //     until CommentLine.Next() = 0;
+                //end;
+                PurchCommentLine.SetRange("No.", "No.");
+                PurchCommentLine.SetRange("Document Type", PurchCommentLine."Document Type"::Order);
+                if PurchCommentLine.FindSet() then
+                    repeat
+                        if VendorComment = '' then
+                            VendorComment := PurchCommentLine.Comment
+                        else
+                            VendorComment += ', ' + PurchCommentLine.Comment;
+                    until PurchCommentLine.Next() = 0;
             end;
 
             trigger OnPreDataItem()
@@ -616,12 +648,12 @@ report 14304309 "AQD CO Purchase Order PRI"
         layout(NewPurchaseOrder)
         {
             Type = RDLC;
-            LayoutFile = './src/layout/NewPurchaseOrder.rdlc';
+            LayoutFile = './src/layout/Rep14304309.NewPurchaseOrder.rdl';
         }
         layout(POReceiver)
         {
             Type = RDLC;
-            LayoutFile = './src/layout/POReceiver.rdlc';
+            LayoutFile = './src/layout/Rep14304309.POReceiver.rdl';
         }
     }
     labels
@@ -714,6 +746,7 @@ report 14304309 "AQD CO Purchase Order PRI"
         TotalCaptionLbl: Label 'Total:';
         VendorOrderNoLbl: Label 'Vendor Order No.';
         VendorInvoiceNoLbl: Label 'Vendor Invoice No.';
+        PurchCommentLine: Record "Purch. Comment Line";
 
     local procedure "***Beck***"()
     begin

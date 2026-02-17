@@ -26,12 +26,12 @@ table 14304310 "AQD Co-Man Lot Restriction"
         }
         field(6; "Restriction Code"; Code[40])
         {
-            TableRelation = "Warehouse Restriction"."Code" where(Status = field("Restriction Status"));
+            TableRelation = "AQD Warehouse Restriction"."Code" where(Status = field("Restriction Status"));
             Caption = 'Restriction Code';
         }
         field(7; "Restriction Status"; Code[10])
         {
-            TableRelation = "Warehouse Restriction Status".Code;
+            TableRelation = "AQD WarehouseRestrictionStatus".Code;
             Caption = 'Restriction Status';
         }
     }

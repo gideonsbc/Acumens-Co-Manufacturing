@@ -14,10 +14,10 @@
   "applicationInsightsConnectionString": "InstrumentationKey=ba4686d0-d97a-4532-b53c-7ece85786a03;IngestionEndpoint=https://eastus-8.in.applicationinsights.azure.com/;LiveEndpoint=https://eastus.livediagnostics.monitor.azure.com/;ApplicationId=5a99d773-71c1-4ae0-86de-4989e2a06e51",
   "dependencies": [
      {
-      "id": "d50afbbf-aff3-4dac-bce7-8686b375b994",
-      "name": "DocXtender",
-      "publisher":  "Insight Works",
-      "version":  "2.4.9435.1"
+      "id": "5be74ffc-2a5c-4eaa-a4b6-6200b3536cd3",
+      "name": "Acumens Inventory Quality Control",
+      "publisher":  "SBC Dynamics ERP",
+      "version":  "27.1026.1.1"
     }
   ],
   "screenshots": [],
