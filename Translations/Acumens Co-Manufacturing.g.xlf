@@ -3,6 +3,71 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Acumens Co-Manufacturing">
     <body>
       <group id="body">
+        <trans-unit id="Table 1233779985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 1625389005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Co-Man No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 972463731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drop Behavior</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Drop Behavior - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 475392585 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duplicate Behavior</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Duplicate Behavior - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 204628771 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 755321105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Storage Behavior</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD File Storage Behavior - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 1173196283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log To History</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Log To History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 3698734193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 1012538199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Deleted By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Setup Deleted By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 2242639816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Initialized By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Setup Initialized By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 1400050298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Subc. Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 1648110271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Worksheet Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Subcon Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1233779985 - Field 2779596363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AQD Acumens Co-Manufact Setup - Field AQD Test Mode - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1820333596 - Field 3236020568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Archive Order</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -152,6 +217,181 @@
           <source>Dynamics 365 Business Central</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - Control Dynamics 365 Business Central - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to automatically Initialize default Acumens Co-Manufacturing Setups?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Setups Initialized Successfully!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deleting Setup Card will delete all Acumens Co-Manufacturing specific Setups. Proceed?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 3422273561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DocXtender Setups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control AQD DocXtender Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 2177013991 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Drop Behavior field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control Drop Behavior - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 2177013991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drop Behavior</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control Drop Behavior - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 3652809013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Duplicate Behavior field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control Duplicate Behavior - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 3652809013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duplicate Behavior</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control Duplicate Behavior - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 2216291661 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Storage Behavior field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control File Storage Behavior - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 2216291661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Storage Behavior</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control File Storage Behavior - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 3341525898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Manufacturing Setups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control Co-Manufacturing Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 1625389005 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Co-Man No. Series field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control AQD Co-Man No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 1625389005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control AQD Co-Man No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 1400050298 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Journal Batch Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control AQD Subc. Batch Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 1400050298 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control AQD Subc. Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 1648110271 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Worksheet Template Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control AQD Subcon Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 1648110271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Worksheet Template Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control AQD Subcon Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 2891538263 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Enabled field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control Enabled - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Control 2891538263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enabled App</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Control Enabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 1868137359 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the DocXtender Setup for drag and drop attachments action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD COIWX DocXtender Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 1868137359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DocXtender Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD COIWX DocXtender Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 2731614008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resets All Acumens Co-Manufacturing Number series on the Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD COM ResetNoSeriesAction - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 2731614008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reset Number Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD COM ResetNoSeriesAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 1836809717 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Manufacturing Setup action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD Manufacturing Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 1836809717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturing Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD Manufacturing Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 954448299 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Requisition Worksheet Templates action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD Req. Worksheet Templates - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 954448299 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requisition Worksheet Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD Req. Worksheet Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 3779025433 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the About Acumens Co-Manufacturing page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD About the C0-Manufacturing App - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 3779025433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About the App</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action AQD About the C0-Manufacturing App - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 1966971490 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Delete Acumens Co-Manufacturing Setup Default Setups action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action Delete Acumens Co-Manufacturing Setups - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 1966971490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Acumens Co-Manufacturing Setups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action Delete Acumens Co-Manufacturing Setups - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 3565820967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Home</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action Category_Category20 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 191834307 - Action 278110413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action Category_New - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2937109315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Archive Co-Man Card</source>
@@ -1807,31 +2047,6 @@
           <source>WIP Item</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD CMStockkeepingUnitCard - Control AQD WIP Item - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 860615524 - Action 3779025433 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
-          <source>Executes the About Acumens Co-Manufacturing page.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 860615524 - Action 3779025433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
-          <source>About the Co-Manufacturing App</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD About the C0-Manufacturing App - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 860615524 - Action 1836809717 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
-          <source>Executes the Manufacturing Setup action.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 860615524 - Action 1836809717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
-          <source>Manufacturing Setup</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD Manufacturing Setup - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 860615524 - Action 1757218312 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1838609307">
-          <source>Co-Manufacturing</source>
-          <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 1.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AQD COMAcumensInventoryQCSetup - Action AQD Manufacturing - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 49460664 - Control 2958492569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3870787835">
           <source>Acumens Co-Manufacturing</source>

@@ -120,6 +120,7 @@ page 14304318 "AQD Transfer To"
         ItemTrackingUpdate: Codeunit "Item Tracking Management"; //SBC ItemTrackingManagement
         ConLbl: Label 'Are you sure you want to create Transfer Order?';
         ErrorLbl: Label '%1 should not be blank.';
+        ItemJournalLine: Record "Item Journal Line";
     begin
         if CloseAction = CloseAction::LookupOK then begin
             if Confirm(ConLbl, true) then begin
@@ -133,7 +134,6 @@ page 14304318 "AQD Transfer To"
                 ItemLedgerEntry.SetRange(Positive, true);
                 if ItemLedgerEntry.FindFirst() then begin
                     OrderMgt.InsertTransLine(TranHeader, TranLine, ItemNo, '', Qty, ItemUOM, DueDate);
-                    //SBC ItemTrackingManagement
                     //ItemTrackingUpdate.UpdateItemTracking(TranLine, TranLine."Quantity (Base)", TranLine."Quantity (Base)", ItemLedgerEntry."Lot No.", TranLine."Shipment Date");
                 end
             end;

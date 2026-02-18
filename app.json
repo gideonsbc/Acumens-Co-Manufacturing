@@ -18,6 +18,12 @@
       "name": "Acumens Inventory Quality Control",
       "publisher":  "SBC Dynamics ERP",
       "version":  "27.1026.1.1"
+    },
+    {
+      "id": "d50afbbf-aff3-4dac-bce7-8686b375b994",
+      "name": "DocXtender",
+      "publisher":  "Insight Works",
+      "version":  "2.4.9435.1"
     }
   ],
   "screenshots": [],
