@@ -141,7 +141,6 @@ page 14304319 "AQD About Acumens Co-Manufact"
         Text010: Label 'Version: %1';
         Text011: Label 'Build: %1';
         Text00501: Label '  * Co-Manufacturing Management';
-    // Text00502: Label '  * Lot Restriction Inventory Quality Control';
 
     local procedure GetAEPApplicationVersion(): Text
     begin

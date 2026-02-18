@@ -344,9 +344,9 @@ report 14304309 "AQD CO Purchase Order PRI"
                             if PrintItemNumber then
                                 ItemNumberToPrint := "No."
                             else IF "Vendor Item No." <> '' THEN
-                                ItemNumberToPrint := "Vendor Item No."
-                            ELSE
-                                ItemNumberToPrint := "No.";
+                                ItemNumberToPrint := "Vendor Item No.";
+                            // ELSE
+                            //     ItemNumberToPrint := "No.";
                             ItemNumberToPrint2 := "No.";
                             IF Type = "Purchase Line".type::" " THEN BEGIN
                                 ItemNumberToPrint := '';
@@ -661,7 +661,11 @@ report 14304309 "AQD CO Purchase Order PRI"
     }
     trigger OnPreReport()
     begin
-        CompanyInformation.GET('');
+        CompanyInformation.Get();
+    end;
+
+    trigger OnInitReport()
+    begin
         PrintCompany := true;
     end;
 

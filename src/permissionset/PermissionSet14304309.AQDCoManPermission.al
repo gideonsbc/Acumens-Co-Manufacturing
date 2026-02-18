@@ -22,5 +22,8 @@ permissionset 14304309 "AQD CoManPermission"
         page "AQD Transfer To"=X,
         page "AQD Acumens Inventory QC Setup"=X,
         codeunit "AQD CoManufacturing Access Mgt"=X,
-        page "AQD About Acumens Co-Manufact"=X;
+        page "AQD About Acumens Co-Manufact"=X,
+        tabledata "AQD Acumens Co-Manufact Setup"=RIMD,
+        table "AQD Acumens Co-Manufact Setup"=X,
+        page "AQD Acumens Co-Manufact. Setup"=X;
 }

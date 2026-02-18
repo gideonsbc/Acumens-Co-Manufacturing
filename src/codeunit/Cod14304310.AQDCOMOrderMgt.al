@@ -7,6 +7,10 @@ codeunit 14304310 "AQD COM Order Mgt"
         NoSeriesManagement: Codeunit "No. Series";
         EntryNo: Integer;
     begin
+        AQDAcumensCoManufactSetup.Get();
+        if not AQDAcumensCoManufactSetup."AQD Enabled" then
+            exit;
+
         ReservationEntry.SetLoadFields("Entry No.");
         if ReservationEntry.FindLast() then
             EntryNo := ReservationEntry."Entry No." + 1
@@ -112,6 +116,10 @@ codeunit 14304310 "AQD COM Order Mgt"
         HeaderOK: Boolean;
         TransfLnl: Label 'Transfer Order No. %1 have been created.';
     begin
+        AQDAcumensCoManufactSetup.Get();
+        if not AQDAcumensCoManufactSetup."AQD Enabled" then
+            exit;
+
         ItemLedgerEntry.SetRange("Order Type", ItemLedgerEntry."Order Type"::Production);
         ItemLedgerEntry.SetFilter("Order No.", ProdOrderNo);
         ItemLedgerEntry.SetRange("Entry Type", ItemLedgerEntry."Entry Type"::Output);
@@ -446,4 +454,5 @@ codeunit 14304310 "AQD COM Order Mgt"
         NextProdOrderLineNo: Integer;
         InsertNew: Boolean;
         LotNo: Code[50];
+        AQDAcumensCoManufactSetup: Record "AQD Acumens Co-Manufact Setup";
 }
