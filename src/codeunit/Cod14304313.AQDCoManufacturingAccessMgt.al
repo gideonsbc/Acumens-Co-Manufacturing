@@ -1,7 +1,7 @@
 /// <summary>
 /// Codeunit AQDAEP Access Mgt. (ID 60527).
 /// </summary>
-codeunit 14304313 "AQD CoManufacturing Access Mgt"
+codeunit 14304313 "AQD COManufacturing Access Mgt"
 {
     // SBCNP 2021-11-11 Authorize.Net
     //                  New Codeunit to check client is licensed or not

@@ -15,7 +15,7 @@ page 14304312 "AQD Co-Man List"
         {
             repeater(GroupName)
             {
-                Caption = 'GroupName';
+                //Caption = 'GroupName';
                 field("No."; Rec."No.")
                 {
                     ApplicationArea = All;

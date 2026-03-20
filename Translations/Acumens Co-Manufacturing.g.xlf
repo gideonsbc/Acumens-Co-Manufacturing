@@ -143,80 +143,90 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COM Order Mgt - Method ProdOrderTransfer - NamedType TransfLnl</note>
         </trans-unit>
-        <trans-unit id="Codeunit 1879552718 - NamedType 1412534533" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 32493102 - NamedType 1412534533" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 annual access license expires in %2 days.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType ExpiryDateCountDownMsg</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType ExpiryDateCountDownMsg</note>
         </trans-unit>
-        <trans-unit id="Codeunit 1879552718 - NamedType 1224024715" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 32493102 - NamedType 1224024715" size-unit="char" translate="yes" xml:space="preserve">
           <source>%1 annual access license has expired.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType LicenseExpiryErr</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType LicenseExpiryErr</note>
         </trans-unit>
-        <trans-unit id="Codeunit 1879552718 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 32493102 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
           <source>You do not have license to access %1.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType Text001</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType Text001</note>
         </trans-unit>
-        <trans-unit id="Codeunit 1879552718 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 32493102 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
           <source>You do not have license to access %1: %2.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD CoManufacturing Access Mgt - NamedType Text002</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType Text002</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 2725134399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>About Acumens Co-Manufacturing</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ACO-M Version: %1</source>
+        <trans-unit id="Page 2725134399 - Control 2032171231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>About the App</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text001</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control About - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
-          <source>CU Version: %1</source>
+        <trans-unit id="Page 2725134399 - Control 2014750533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App Version</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text002</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control AppVersion - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ACO-M Build Date: %1</source>
+        <trans-unit id="Page 2725134399 - Control 1430049525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dynamics 365 Business Central / NAV</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text003</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control Dynamics 365 Business Central - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Acumens Co-Manufacturing includes following granules:</source>
+        <trans-unit id="Page 2725134399 - Control 1719262925 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Version field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text004</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control BCVersion - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 2037309875" size-unit="char" translate="yes" xml:space="preserve">
-          <source>  * Co-Manufacturing Management</source>
+        <trans-unit id="Page 2725134399 - Control 1719262925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text00501</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control BCVersion - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 3921243024" size-unit="char" translate="yes" xml:space="preserve">
-          <source>© 2019-2026 SBC Dynamics ERP</source>
+        <trans-unit id="Page 2725134399 - Control 844698329 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Platform field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text009</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control Platform - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 1664139952" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Version: %1</source>
+        <trans-unit id="Page 2725134399 - Control 844698329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Platform</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text010</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control Platform - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - NamedType 1026443335" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Build: %1</source>
+        <trans-unit id="Page 2725134399 - Control 4181767958 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Application field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - NamedType Text011</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control Application - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - Control 3803345013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Acumens Co-Manufacturing</source>
+        <trans-unit id="Page 2725134399 - Control 4181767958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - Control Acumens Co-Manufacturing - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control Application - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3919738911 - Control 1430049525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Dynamics 365 Business Central</source>
+        <trans-unit id="Page 2725134399 - Control 233966722 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Build field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD About Acumens Co-Manufact - Control Dynamics 365 Business Central - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control BCAppBuild - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2725134399 - Control 233966722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Build</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control BCAppBuild - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2725134399 - Control 3650642145 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Manufacturing Capabilities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AboutAcumensCoManufactu - Control Features - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 191834307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Acumens Co-Manufacturing Setup</source>
@@ -392,6 +402,736 @@
           <source>About</source>
           <note from="Developer" annotates="general" priority="2">Generated from the PromotedActionCategories property index 2.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Acumens Co-Manufact. Setup - Action Category_New - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Control 2693256201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Approvals Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Control ApprovalsActivities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Control 4059969562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Control AQD COMManafucturingActivities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Control 321772404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Control Control1901138408 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Control 3251749308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Headline RC Whse. Worker WMS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Control Control7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Control 1392835601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Control Emails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Control 3666961317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Tasks Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Control Job Queue Tasks Activities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Control 669017456 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Tasks Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Control User Tasks Activities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4247615141 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Item - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4247615141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4164394277 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase goods or services from a vendor.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Purchase Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4164394277 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Purchase Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Purchase Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2929154246 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a routing defining the operations that are required to produce an end item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Routing - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2929154246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Routing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Routing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2069703735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Record the receipt of items according to an advanced warehouse configuration. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Whse. Receipt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2069703735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Whse. Receipt</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action &amp;Whse. Receipt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4057595947 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new firm planned production order to supply a produced item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Firm Planned Production Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4057595947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Firm Planned Production Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Firm Planned Production Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 401856855 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan to count inventory by calculating existing quantities and generating the recording documents.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Phys. Inv. Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 401856855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phys. Inv. Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Phys. Inv. Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2634019959 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new bill of material for a produced item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Production &amp;BOM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2634019959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Production &amp;BOM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Production &amp;BOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2568579605 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new planned production order to supply a produced item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Production &amp;Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2568579605 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Planned Production &amp;Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Production &amp;Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3698582500 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new released production order to supply a produced item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Released Production Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3698582500 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released Production Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Released Production Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4177960005 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Move items from one warehouse location to another.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action T&amp;ransfer Order - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4177960005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>T&amp;ransfer Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action T&amp;ransfer Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 648973827 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a new warehouse shipment.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Whse. &amp;Shipment - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 648973827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. &amp;Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Whse. &amp;Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1386076785 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of Archive Co-Man List.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action AQD Archive Co-Man List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1386076785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action AQD Archive Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2233657647 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of Co-Man List.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action AQD Co-Man List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2233657647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action AQD Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1285447729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of Co-Man Lot Restrictions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action AQD Co-Man Lot Restrictions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1285447729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Lot Restrictions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action AQD Co-Man Lot Restrictions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1119230149 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View ongoing assembly orders.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Assembly Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1119230149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assembly Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Assembly Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4254209057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View items in the bin if the selected line contains a bin code.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Bin Contents - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4254209057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin Contents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Bin Contents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3606140129 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the customers that you trade with. From each customer card, you can open related information, such as sales statistics and ongoing orders, and you can define special prices and line discounts that you grant if certain conditions are met.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Customers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3606140129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Customers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1554554962 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the products that you trade in. The item card can be of type Inventory or Service to specify if the item is a physical unit or a labor time unit. Here you also define if items in inventory or on incoming orders are automatically reserved for outbound documents and whether order tracking links are created between demand and supply to reflect planning actions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Items - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1554554962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 832802772 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing movements between bins according to an advanced warehouse configuration.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Movements - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 832802772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movements</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Movements - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 312431886 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing warehouse picks. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Picks - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 312431886 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picks</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Picks - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2307488147 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing put-aways.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Put-aways - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2307488147 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Put-aways</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Put-aways - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4073709604 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of shipping companies that you use to transport goods.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Shipping Agents - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4073709604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Agents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Shipping Agents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3061233890 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Move inventory items between company locations. With transfer orders, you ship the outbound transfer from one location and receive the inbound transfer at the other location. This allows you to manage the involved warehouse activities and provides more certainty that inventory quantities are updated correctly.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Transfer Orders - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3061233890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Transfer Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 713531721 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit detailed information for the vendors that you trade with. From each vendor card, you can open related information, such as purchase statistics and ongoing orders, and you can define special prices and line discounts that the vendor grants you if certain conditions are met.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Vendors - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 713531721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Vendors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4119549890 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing warehouse receipts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseReceipts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4119549890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseReceipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3394133634 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing warehouse receipts that are partially completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseReceiptsPartReceived - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3394133634 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partially Received</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseReceiptsPartReceived - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 889814618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing warehouse shipments.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShpt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 889814618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShpt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1651929933 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of completed warehouse picks.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptComplPicked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1651929933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completely Picked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptComplPicked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4091489139 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing warehouse picks that are partially completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptPartPicked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4091489139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partially Picked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptPartPicked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2004638118 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of ongoing warehouse shipments that are partially completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptPartShipped - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2004638118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partially Shipped</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptPartShipped - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3914191117 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of released source documents that are ready for warehouse activities.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptReleased - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3914191117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShptReleased - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1569466922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing  Setups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Administration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1838609307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action AQD Acumens Inventory QC Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2505993833 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Item Journal Templates action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Item JournalTemplates - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2505993833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Item JournalTemplates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3264503566 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Locations action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Location Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3264503566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Location Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3213244558 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Warehouse Setup action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Warehouse Setup - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3213244558 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Warehouse Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1421138223 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Whse. Journal Templates action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Whse. Journal Templates - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1421138223 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Journal Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Whse. Journal Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2176459415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Reports - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 65164665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View, save, or print mailing labels with the customers' names and addresses. The report can be used to send sales letters, for example.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Customer &amp;Labels - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 65164665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer &amp;Labels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Customer &amp;Labels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 363045002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Listing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action CustomerList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3111148961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Labels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action InventoryLabels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1633495091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Picking List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action InventoryPickingList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1376759559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Expiration - Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action ItemExpirationQuantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1144401969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View shipping labels for posted sales shipments. You can print labels for all or specific orders.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Shipping Labels - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1144401969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Labels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Shipping Labels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3115676096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get an overview of warehouse bins, their setup, and the quantity of items within the bins.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Warehouse &amp;Bin List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3115676096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse &amp;Bin List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Warehouse &amp;Bin List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1248752835 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get an overview of warehouse bins, their setup, and the quantity of items within the bins.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Warehouse A&amp;djustment Bin - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1248752835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse A&amp;djustment Bin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Warehouse A&amp;djustment Bin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1530642303 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or print the list of the lines that you have calculated in the Warehouse Physical Inventory Journal window. You can use this report during the physical inventory count to mark down actual quantities on hand in the warehouse and compare them to what is recorded in the program.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Whse. P&amp;hys. Inventory List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1530642303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. P&amp;hys. Inventory List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Whse. P&amp;hys. Inventory List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2002646031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Shipment Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseShipmentStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 37342317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setups</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Group15 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1720227611 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assembly Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Assembly Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1532302571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Stockkeeping Unit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Create Stockkeeping Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1180040559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Inventory Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 991224529 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal Templates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Item Journal Templates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2933302576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Tracking Codes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Item Tracking Codes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 890861418 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Locations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Locations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4003827319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nonstock Item Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Nonstock Item Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2345980193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report Selections Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Report Selections Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1670942019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Routes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Transfer Routes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1079737925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Group4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 8647502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assembly Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Assembly Orders1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 966610113 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3579008013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Shipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 141156897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Transfer Orders1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1717434542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Group5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1280852974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Assembly Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Assembly Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2777758400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Direct Transfers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Direct Transfers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2382704685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Invt. Pick</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Invt. Pick - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2878051020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Invt. Put-away</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Invt. Put-away - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2543266615 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Posted Inventory Receipts page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Invt. Receipts - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2543266615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Inventory Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Invt. Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 155881795 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open the Posted Inventory Shipments page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Invt. Shipments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 155881795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Inventory Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Invt. Shipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1116965951 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Purchase Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 245531330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Whse. Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 699376808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Return Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Return Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1550507244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Purchase Return Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Return Shipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1840709038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Sales Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Sales Shipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3552081574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Whse. Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Shipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1037826143 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Transfer Receipts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Transfer Receipts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 627180795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posted Transfer Shipments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Posted Transfer Shipments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1074715950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Journals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3659324010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Adjust the quantity of an item in a particular bin or bins. For instance, you might find some items in a bin that are not registered in the system, or you might not be able to pick the quantity needed because there are fewer items in a bin than was calculated by the program. The bin is then updated to correspond to the actual quantity in the bin. In addition, it creates a balancing quantity in the adjustment bin, for synchronization with item ledger entries, which you can then post with an item journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseItem Journals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3659324010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Item Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhseItem Journals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 502387840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepare to count inventories by preparing the documents that warehouse employees use when they perform a physical inventory of selected items or of all the inventory. When the physical count has been made, you enter the number of items that are in the bins in this window, and then you register the physical inventory.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhsePhysInvtJournals - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 502387840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Physical Inventory Journals</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action WhsePhysInvtJournals - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3375155882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 97817805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Listing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Customer - List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3885246329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Labels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Inventory Labels - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4264797755 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Picking List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Inventory Picking List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 4293722860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Expiration - Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Item Expiration - Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 983739117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Whse. Shipment Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Whse. Shipment Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1506462522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1781548914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan and initiate movements of items between bins according to an advanced warehouse configuration.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action MovementWorksheets - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 1781548914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movement Worksheets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action MovementWorksheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2049596008 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan and initialize picks of items. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action PickWorksheets - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 2049596008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pick Worksheets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action PickWorksheets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3182521534 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Plan and initialize item put-aways.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action PutawayWorksheets - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1444146826 - Action 3182521534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Put-away Worksheets</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD AcumensCo-ManufacturingRC - Action PutawayWorksheets - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2937109315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Archive Co-Man Card</source>
@@ -853,11 +1593,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2233657647 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>GroupName</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man List - Control GroupName - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 2233657647 - Control 297077237 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the Co-Man Location Code field.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1037,6 +1772,136 @@
           <source>Restriction Status</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Co-Man Lot Restrictions - Control Restriction Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4059969562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing Activities</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMManafucturingActivities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4059969562 - Control 2093559309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMManafucturingActivities - Control Archive Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4059969562 - Control 1386076785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMManafucturingActivities - Control AQD Archive Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4059969562 - Control 2183253315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMManafucturingActivities - Control Co-Manufacturing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4059969562 - Control 2233657647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMManafucturingActivities - Control AQD Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4059969562 - Control 3837191184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-Man Lot Restrictions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMManafucturingActivities - Control AQD Co-Man Lot Restriction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Method 4177352842 - NamedType 2353246636" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Are you sure you want to create Transfer Order?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Method OnQueryClosePage - NamedType ConLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Method 4177352842 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 should not be blank.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Method OnQueryClosePage - NamedType ErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GroupName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the DueDate field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Due Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DueDate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 3473541370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control From Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 3473541370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control From Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 186286912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the FLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control From Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 186286912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control From Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ItemNo field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Item No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 3737891889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Unit of Measure. field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control ItemProductioUOM - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 3737891889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Unit of Measure.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control ItemProductioUOM - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 390917702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ToLocationName field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Location Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 390917702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ToLocationName</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Qty field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Quantity - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 3790035013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the ToLocationCode field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control To Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3625851327 - Control 3790035013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ToLocationCode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AQD COMTransfer To - Control To Location Code - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 2316154885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Finished Production Order Lines</source>
@@ -1247,11 +2112,6 @@
           <source>%1 should not be blank.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Method OnQueryClosePage - NamedType ErrorLbl</note>
-        </trans-unit>
-        <trans-unit id="Page 786325213 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>GroupName</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD New Co-Man - Control GroupName - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 786325213 - Control 203151679 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the value of the CItem field.</source>
@@ -1728,106 +2588,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AQD Released ProdOrder Subform - Action Posted Purchase Invoices - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 2200282144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Transfer To</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Method 4177352842 - NamedType 2353246636" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Are you sure you want to create Transfer Order?</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Method OnQueryClosePage - NamedType ConLbl</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Method 4177352842 - NamedType 3941846598" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1 should not be blank.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Method OnQueryClosePage - NamedType ErrorLbl</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>GroupName</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control GroupName - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 4085727052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the DueDate field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Due Date - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>DueDate</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Due Date - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 3473541370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the FLocationCode field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Code - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 3473541370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>FLocationCode</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Code - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 186286912 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the FLocationName field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Name - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 186286912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>FLocationName</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control From Location Name - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 568743302 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the ItemNo field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Item No. - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ItemNo</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Item No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 3737891889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Item Unit of Measure. field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control ItemProductioUOM - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 3737891889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Item Unit of Measure.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control ItemProductioUOM - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 390917702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the ToLocationName field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Location Name - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 390917702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ToLocationName</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Location Name - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 2704404533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the Qty field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Quantity - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Qty</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control Quantity - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 3790035013 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the value of the ToLocationCode field.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control To Location Code - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2200282144 - Control 3790035013 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>ToLocationCode</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AQD Transfer To - Control To Location Code - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Report 232143914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Purchase Order PRI</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -2302,6 +3062,26 @@
           <source>Co-Man No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMTransferHeader - Field AQD Co-Man No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 270757861 - Field 1386076785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2401365241">
+          <source>Archive Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMWarehouseWMSCueExt - Field AQD Archive Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 270757861 - Field 2233657647 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2401365241">
+          <source>Co-Man List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMWarehouseWMSCueExt - Field AQD Co-Man List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 270757861 - Field 3837191184 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2401365241">
+          <source>Co-Man Lot Restriction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AQD COMWarehouseWMSCueExt - Field AQD Co-Man Lot Restriction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1444146826 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile AQD AcumensCo-ManufacturingRC - Property Caption</note>
         </trans-unit>
       </group>
     </body>
