@@ -126,7 +126,7 @@ page 14304320 "AQD Acumens Co-Manufact. Setup"
             action("AQD About the C0-Manufacturing App")
             {
                 Image = AboutNav;
-                RunObject = page "AQD About Acumens Co-Manufact";
+                RunObject = page "AQD AboutAcumensCoManufactu";
                 ApplicationArea = All;
                 ToolTip = 'Executes the About Acumens Co-Manufacturing page.';
                 Caption = 'About the App';

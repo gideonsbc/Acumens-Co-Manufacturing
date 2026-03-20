@@ -17,7 +17,7 @@ pageextension 14304314 "AQD COPostedPurchaseReceipt" extends "Posted Purchase Re
                     PurchRcptHeader: Record "Purch. Rcpt. Header";
                     Location: Record Location;
                     ItemLedgerEntry: Record "Item Ledger Entry";
-                    TransferTo: Page "AQD Transfer To";
+                    TransferTo: Page "AQD COMTransfer To";
                 begin
                     if PurchRcptHeader.Get(Rec."No.") then
                         if Location.Get(PurchRcptHeader."Location Code") then

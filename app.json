@@ -15,9 +15,9 @@
   "dependencies": [
      {
       "id": "5be74ffc-2a5c-4eaa-a4b6-6200b3536cd3",
-      "name": "Acumens Inventory Quality Control",
+      "name": "Acumens Quality Control Management",
       "publisher":  "SBC Dynamics ERP",
-      "version":  "27.1026.1.1"
+      "version":  "27.1026.1.2"
     },
     {
       "id": "d50afbbf-aff3-4dac-bce7-8686b375b994",

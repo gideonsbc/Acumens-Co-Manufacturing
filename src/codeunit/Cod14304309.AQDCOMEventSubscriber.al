@@ -141,7 +141,7 @@ codeunit 14304309 "AQD COM Event Subscriber"
         PurchRcptHeader: Record "Purch. Rcpt. Header";
         Location: Record Location;
         ItemLedgerEntry: Record "Item Ledger Entry";
-        TransferTo: Page "AQD Transfer To";
+        TransferTo: Page "AQD COMTransfer To";
     begin
         if PurchRcptHeader.Get(PurchRcpHdrNo) then
             if Location.Get(PurchRcptHeader."Location Code") then

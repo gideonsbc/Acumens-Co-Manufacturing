@@ -9,7 +9,7 @@ page 14304310 "AQD New Co-Man"
         {
             group(GroupName)
             {
-                Caption = 'GroupName';
+                //Caption = 'GroupName';
                 field("Create Inbound Transfer"; InBoundTransfer)
                 {
                     ApplicationArea = All;
