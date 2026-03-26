@@ -143,25 +143,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COM Order Mgt - Method ProdOrderTransfer - NamedType TransfLnl</note>
         </trans-unit>
-        <trans-unit id="Codeunit 32493102 - NamedType 1412534533" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1 annual access license expires in %2 days.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType ExpiryDateCountDownMsg</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 32493102 - NamedType 1224024715" size-unit="char" translate="yes" xml:space="preserve">
-          <source>%1 annual access license has expired.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType LicenseExpiryErr</note>
-        </trans-unit>
         <trans-unit id="Codeunit 32493102 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
           <source>You do not have license to access %1.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType Text001</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 32493102 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
-          <source>You do not have license to access %1: %2.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType Text002</note>
         </trans-unit>
         <trans-unit id="Page 2725134399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>About Acumens Co-Manufacturing</source>

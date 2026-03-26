@@ -2,6 +2,7 @@ page 14304322 "AQD AcumensCo-ManufacturingRC"
 {
     Caption = 'Acumens Co-Manufacturing Role Center';
     PageType = RoleCenter;
+    ApplicationArea = All;
 
     layout
     {

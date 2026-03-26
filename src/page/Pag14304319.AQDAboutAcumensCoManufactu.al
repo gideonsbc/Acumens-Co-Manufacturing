@@ -174,7 +174,7 @@ page 14304319 "AQD AboutAcumensCoManufactu"
     begin
         AboutAppTxt :=
           'Acumens Co-Manufacturing enables you to keep track of the inventory movement during a manufacturing operation within Microsoft Dynamics 365 Business Central. ' +
-          'This feature is a pivotal in driving efficiency, automating tasks, and enhancing productivity.' +
+          'This feature is a pivotal in driving efficiency, automating tasks, and enhancing productivity. ' +
           'The app helps to formalize outsourcing agreements, optimize resource utilization, and ensure accurate tracking of production orders within Microsoft Dynamics 365 Business Central.';
 
         CoManufacturingManagementTxtVar := 'Co-Manufacturing Management';
