@@ -160,7 +160,7 @@ codeunit 14304309 "AQD COM Event Subscriber"
                 end;
     end;
 
-    [EventSubscriber(ObjectType::Page, Page::"Document Attachment Factbox", 'OnBeforeDrillDown', '', false, false)]
+    [EventSubscriber(ObjectType::Page, Page::"Doc. Attachment List Factbox", 'OnAfterGetRecRefFail', '', false, false)]
     local procedure OnBeforeDrillDown(DocumentAttachment: Record "Document Attachment"; var RecRef: RecordRef);
     var
         CoManHeader: Record "AQD Co-Man Header";
@@ -175,7 +175,7 @@ codeunit 14304309 "AQD COM Event Subscriber"
         end;
     end;
 
-    [EventSubscriber(ObjectType::Page, Page::"Document Attachment Factbox", 'OnBeforeDocumentAttachmentDetailsRunModal', '', false, false)]
+    [EventSubscriber(ObjectType::Page, Page::"Doc. Attachment List Factbox", 'OnBeforeDocumentAttachmentDetailsRunModal', '', false, false)]
     local procedure OnBeforeDocumentAttachmentDetailsRunModal(var DocumentAttachment: Record "Document Attachment"; var DocumentAttachmentDetails: Page "Document Attachment Details"; var RecRef: RecordRef)
     var
         CoManHeader: Record "AQD Co-Man Header";

@@ -4,6 +4,7 @@ page 14304321 "AQD COMManafucturingActivities"
     PageType = CardPart;
     RefreshOnActivate = true;
     SourceTable = "Warehouse WMS Cue";
+    ApplicationArea = All;
 
     layout
     {
