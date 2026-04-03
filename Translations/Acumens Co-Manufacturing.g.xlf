@@ -143,6 +143,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COM Order Mgt - Method ProdOrderTransfer - NamedType TransfLnl</note>
         </trans-unit>
+        <trans-unit id="Codeunit 32493102 - NamedType 598091896" size-unit="char" translate="yes" xml:space="preserve">
+          <source>c25b2a4a-4ae5-4c29-800a-643cb04d9b28</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType appid</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 32493102 - NamedType 3233393410" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acumens Co-Manufacturing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AQD COManufacturing Access Mgt - NamedType appname</note>
+        </trans-unit>
         <trans-unit id="Codeunit 32493102 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
           <source>You do not have license to access %1.</source>
           <note from="Developer" annotates="general" priority="2"></note>
