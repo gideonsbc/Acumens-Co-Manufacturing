@@ -10,10 +10,11 @@ Codeunit 14304313 "AQD COManufacturing Access Mgt"
         if not AcumensLicensing.Checkifappislicensed(appid, appname) then
             DisableAppAccess(true, true);
     end;
+
     procedure DisableAppAccess(ShowMessage: Boolean; CalledFromLogin: Boolean): Boolean
     var
         AQAcumensCoManufactSetup: Record "AQD Acumens Co-Manufact Setup";
-        UnlicensedAppusers: Record "AQD Unlicensed App Users";
+        UnlicensedAppusers: Record "AQD AL Unlicensed App Users";
     begin
         if AQAcumensCoManufactSetup.Get() and AQAcumensCoManufactSetup."AQD Enabled" then begin
             UnlicensedAppusers.reset();
@@ -31,12 +32,12 @@ Codeunit 14304313 "AQD COManufacturing Access Mgt"
         if ShowMessage and not CalledFromLogin then
             Error(Text001, 'Acumens Co-Manufacturing');
     end;
+
     procedure enableAppAccess(ShowMessage: Boolean; CalledFromLogin: Boolean): Boolean
     var
         AQAcumensCoManufactSetup: Record "AQD Acumens Co-Manufact Setup";
-        UnlicensedAppusers: Record "AQD Unlicensed App Users";
+        UnlicensedAppusers: Record "AQD AL Unlicensed App Users";
     begin
-
         if AQAcumensCoManufactSetup.Get() and (AQAcumensCoManufactSetup."AQD enabled") then begin
             UnlicensedAppusers.reset();
             UnlicensedAppusers.SetRange("User ID", UserId);
@@ -46,6 +47,7 @@ Codeunit 14304313 "AQD COManufacturing Access Mgt"
         //if ShowMessage and not CalledFromLogin then
         /// Error(Text002, 'Acumens e-Mailing');
     end;
+
     procedure CheckAppAccess(): Boolean
     var
     begin
